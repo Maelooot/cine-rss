@@ -4,7 +4,7 @@
     <title>Au cinéma en ce moment</title>
     <link>https://www.themoviedb.org/movie/now-playing</link>
     <description>Films à l'affiche en France</description>
-    <lastBuildDate>Fri, 30 Oct 2026 13:26:23 -0000</lastBuildDate>
+    <lastBuildDate>Sat, 31 Oct 2026 10:43:41 -0000</lastBuildDate>
     <item>
       <title>Hope</title>
       <link>https://www.themoviedb.org/movie/1058424</link>
@@ -15,15 +15,6 @@
       <media:content url="https://image.tmdb.org/t/p/w500/tGdFDoA9qyt0t6Qr9MFnOl8Z2Jz.jpg" medium="image"/>
     </item>
     <item>
-      <title>Clayface</title>
-      <link>https://www.themoviedb.org/movie/1400940</link>
-      <guid>https://www.themoviedb.org/movie/1400940</guid>
-      <description>L'ascension fulgurante de Matt Hagen, de gamin des rues de Gotham à star hollywoodienne, est brutalement interrompue lorsqu'un baron du crime le laisse atrocement défiguré. Abandonné de tous et n'ayan</description>
-      <enclosure url="https://image.tmdb.org/t/p/w500/5RzUMLAYw2xHsd98UKcMC9s0ZQ.jpg" type="image/jpeg" length="0"/>
-      <media:thumbnail url="https://image.tmdb.org/t/p/w500/5RzUMLAYw2xHsd98UKcMC9s0ZQ.jpg"/>
-      <media:content url="https://image.tmdb.org/t/p/w500/5RzUMLAYw2xHsd98UKcMC9s0ZQ.jpg" medium="image"/>
-    </item>
-    <item>
       <title>Verity</title>
       <link>https://www.themoviedb.org/movie/1283515</link>
       <guid>https://www.themoviedb.org/movie/1283515</guid>
@@ -31,6 +22,15 @@
       <enclosure url="https://image.tmdb.org/t/p/w500/1ob7dZ1rvAgHOpVJGjJ2voibOp.jpg" type="image/jpeg" length="0"/>
       <media:thumbnail url="https://image.tmdb.org/t/p/w500/1ob7dZ1rvAgHOpVJGjJ2voibOp.jpg"/>
       <media:content url="https://image.tmdb.org/t/p/w500/1ob7dZ1rvAgHOpVJGjJ2voibOp.jpg" medium="image"/>
+    </item>
+    <item>
+      <title>Clayface</title>
+      <link>https://www.themoviedb.org/movie/1400940</link>
+      <guid>https://www.themoviedb.org/movie/1400940</guid>
+      <description>L'ascension fulgurante de Matt Hagen, de gamin des rues de Gotham à star hollywoodienne, est brutalement interrompue lorsqu'un baron du crime le laisse atrocement défiguré. Abandonné de tous et n'ayan</description>
+      <enclosure url="https://image.tmdb.org/t/p/w500/5RzUMLAYw2xHsd98UKcMC9s0ZQ.jpg" type="image/jpeg" length="0"/>
+      <media:thumbnail url="https://image.tmdb.org/t/p/w500/5RzUMLAYw2xHsd98UKcMC9s0ZQ.jpg"/>
+      <media:content url="https://image.tmdb.org/t/p/w500/5RzUMLAYw2xHsd98UKcMC9s0ZQ.jpg" medium="image"/>
     </item>
     <item>
       <title>L'île des souvenirs</title>
@@ -87,15 +87,6 @@
       <media:content url="https://image.tmdb.org/t/p/w500/qjH0jF5cLZiKS97eNn4S2AdpiHW.jpg" medium="image"/>
     </item>
     <item>
-      <title>Avengers : Endgame</title>
-      <link>https://www.themoviedb.org/movie/299534</link>
-      <guid>https://www.themoviedb.org/movie/299534</guid>
-      <description>Après leur défaite face au Titan Thanos qui dans le film précédent s'est approprié toutes les pierres du Gant de l'infini, les Avengers et les Gardiens de la Galaxie ayant survécu à son claquement de </description>
-      <enclosure url="https://image.tmdb.org/t/p/w500/qXekTarZKRrVfnBwhS6xevt6BGU.jpg" type="image/jpeg" length="0"/>
-      <media:thumbnail url="https://image.tmdb.org/t/p/w500/qXekTarZKRrVfnBwhS6xevt6BGU.jpg"/>
-      <media:content url="https://image.tmdb.org/t/p/w500/qXekTarZKRrVfnBwhS6xevt6BGU.jpg" medium="image"/>
-    </item>
-    <item>
       <title>Digger</title>
       <link>https://www.themoviedb.org/movie/1248832</link>
       <guid>https://www.themoviedb.org/movie/1248832</guid>
@@ -103,6 +94,15 @@
       <enclosure url="https://image.tmdb.org/t/p/w500/gPCCGMQCrrMNM3mR3vqIdbdJxJ5.jpg" type="image/jpeg" length="0"/>
       <media:thumbnail url="https://image.tmdb.org/t/p/w500/gPCCGMQCrrMNM3mR3vqIdbdJxJ5.jpg"/>
       <media:content url="https://image.tmdb.org/t/p/w500/gPCCGMQCrrMNM3mR3vqIdbdJxJ5.jpg" medium="image"/>
+    </item>
+    <item>
+      <title>Avengers : Endgame</title>
+      <link>https://www.themoviedb.org/movie/299534</link>
+      <guid>https://www.themoviedb.org/movie/299534</guid>
+      <description>Après leur défaite face au Titan Thanos qui dans le film précédent s'est approprié toutes les pierres du Gant de l'infini, les Avengers et les Gardiens de la Galaxie ayant survécu à son claquement de </description>
+      <enclosure url="https://image.tmdb.org/t/p/w500/qXekTarZKRrVfnBwhS6xevt6BGU.jpg" type="image/jpeg" length="0"/>
+      <media:thumbnail url="https://image.tmdb.org/t/p/w500/qXekTarZKRrVfnBwhS6xevt6BGU.jpg"/>
+      <media:content url="https://image.tmdb.org/t/p/w500/qXekTarZKRrVfnBwhS6xevt6BGU.jpg" medium="image"/>
     </item>
     <item>
       <title>Englouti</title>
