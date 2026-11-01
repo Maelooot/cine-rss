@@ -4,7 +4,7 @@
     <title>Au cinéma en ce moment</title>
     <link>https://www.themoviedb.org/movie/now-playing</link>
     <description>Films à l'affiche en France</description>
-    <lastBuildDate>Sat, 31 Oct 2026 10:43:41 -0000</lastBuildDate>
+    <lastBuildDate>Sun, 01 Nov 2026 11:40:52 -0000</lastBuildDate>
     <item>
       <title>Hope</title>
       <link>https://www.themoviedb.org/movie/1058424</link>
@@ -87,15 +87,6 @@
       <media:content url="https://image.tmdb.org/t/p/w500/qjH0jF5cLZiKS97eNn4S2AdpiHW.jpg" medium="image"/>
     </item>
     <item>
-      <title>Digger</title>
-      <link>https://www.themoviedb.org/movie/1248832</link>
-      <guid>https://www.themoviedb.org/movie/1248832</guid>
-      <description>L’homme le plus puissant du monde se lance dans une mission frénétique pour prouver qu’il est le sauveur de l’humanité avant que le désastre qu’il a déclenché ne détruise tout.</description>
-      <enclosure url="https://image.tmdb.org/t/p/w500/gPCCGMQCrrMNM3mR3vqIdbdJxJ5.jpg" type="image/jpeg" length="0"/>
-      <media:thumbnail url="https://image.tmdb.org/t/p/w500/gPCCGMQCrrMNM3mR3vqIdbdJxJ5.jpg"/>
-      <media:content url="https://image.tmdb.org/t/p/w500/gPCCGMQCrrMNM3mR3vqIdbdJxJ5.jpg" medium="image"/>
-    </item>
-    <item>
       <title>Avengers : Endgame</title>
       <link>https://www.themoviedb.org/movie/299534</link>
       <guid>https://www.themoviedb.org/movie/299534</guid>
@@ -105,13 +96,13 @@
       <media:content url="https://image.tmdb.org/t/p/w500/qXekTarZKRrVfnBwhS6xevt6BGU.jpg" medium="image"/>
     </item>
     <item>
-      <title>Englouti</title>
-      <link>https://www.themoviedb.org/movie/1255833</link>
-      <guid>https://www.themoviedb.org/movie/1255833</guid>
-      <description>Un plongeur sous-marin est à la recherche des restes de son père décédé, qui s'est fait avaler par un cachalot. Il ne lui reste plus qu'une heure avant que l'oxygène ne vienne à lui manquer.</description>
-      <enclosure url="https://image.tmdb.org/t/p/w500/qLt9F35AdGKDXPSJtqH5DERoigI.jpg" type="image/jpeg" length="0"/>
-      <media:thumbnail url="https://image.tmdb.org/t/p/w500/qLt9F35AdGKDXPSJtqH5DERoigI.jpg"/>
-      <media:content url="https://image.tmdb.org/t/p/w500/qLt9F35AdGKDXPSJtqH5DERoigI.jpg" medium="image"/>
+      <title>Digger</title>
+      <link>https://www.themoviedb.org/movie/1248832</link>
+      <guid>https://www.themoviedb.org/movie/1248832</guid>
+      <description>L’homme le plus puissant du monde se lance dans une mission frénétique pour prouver qu’il est le sauveur de l’humanité avant que le désastre qu’il a déclenché ne détruise tout.</description>
+      <enclosure url="https://image.tmdb.org/t/p/w500/gPCCGMQCrrMNM3mR3vqIdbdJxJ5.jpg" type="image/jpeg" length="0"/>
+      <media:thumbnail url="https://image.tmdb.org/t/p/w500/gPCCGMQCrrMNM3mR3vqIdbdJxJ5.jpg"/>
+      <media:content url="https://image.tmdb.org/t/p/w500/gPCCGMQCrrMNM3mR3vqIdbdJxJ5.jpg" medium="image"/>
     </item>
     <item>
       <title>Wicker</title>
@@ -121,6 +112,15 @@
       <enclosure url="https://image.tmdb.org/t/p/w500/fjoHeK9kmoN46dUPGVpZA5rD27g.jpg" type="image/jpeg" length="0"/>
       <media:thumbnail url="https://image.tmdb.org/t/p/w500/fjoHeK9kmoN46dUPGVpZA5rD27g.jpg"/>
       <media:content url="https://image.tmdb.org/t/p/w500/fjoHeK9kmoN46dUPGVpZA5rD27g.jpg" medium="image"/>
+    </item>
+    <item>
+      <title>Englouti</title>
+      <link>https://www.themoviedb.org/movie/1255833</link>
+      <guid>https://www.themoviedb.org/movie/1255833</guid>
+      <description>Un plongeur sous-marin est à la recherche des restes de son père décédé, qui s'est fait avaler par un cachalot. Il ne lui reste plus qu'une heure avant que l'oxygène ne vienne à lui manquer.</description>
+      <enclosure url="https://image.tmdb.org/t/p/w500/qLt9F35AdGKDXPSJtqH5DERoigI.jpg" type="image/jpeg" length="0"/>
+      <media:thumbnail url="https://image.tmdb.org/t/p/w500/qLt9F35AdGKDXPSJtqH5DERoigI.jpg"/>
+      <media:content url="https://image.tmdb.org/t/p/w500/qLt9F35AdGKDXPSJtqH5DERoigI.jpg" medium="image"/>
     </item>
     <item>
       <title>Primetime</title>
