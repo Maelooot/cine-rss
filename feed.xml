@@ -4,7 +4,7 @@
     <title>Au cinéma en ce moment</title>
     <link>https://www.themoviedb.org/movie/now-playing</link>
     <description>Films à l'affiche en France</description>
-    <lastBuildDate>Sun, 01 Nov 2026 11:40:52 -0000</lastBuildDate>
+    <lastBuildDate>Mon, 02 Nov 2026 13:06:13 -0000</lastBuildDate>
     <item>
       <title>Hope</title>
       <link>https://www.themoviedb.org/movie/1058424</link>
@@ -42,15 +42,6 @@
       <media:content url="https://image.tmdb.org/t/p/w500/txvVTbY1cAsBe5tPX9c5m5SM3ml.jpg" medium="image"/>
     </item>
     <item>
-      <title>Street Fighter</title>
-      <link>https://www.themoviedb.org/movie/1153576</link>
-      <guid>https://www.themoviedb.org/movie/1153576</guid>
-      <description>En 1993, Ryu et Ken Masters, deux Street Fighters autrefois inséparables, sont replongés dans l’arène lorsque la mystérieuse Chun-Li les recrute pour le prochain World Warrior Tournament : un affronte</description>
-      <enclosure url="https://image.tmdb.org/t/p/w500/k53HHxQ4rQG0dME6nsofii3QNS7.jpg" type="image/jpeg" length="0"/>
-      <media:thumbnail url="https://image.tmdb.org/t/p/w500/k53HHxQ4rQG0dME6nsofii3QNS7.jpg"/>
-      <media:content url="https://image.tmdb.org/t/p/w500/k53HHxQ4rQG0dME6nsofii3QNS7.jpg" medium="image"/>
-    </item>
-    <item>
       <title>Obsession</title>
       <link>https://www.themoviedb.org/movie/1339713</link>
       <guid>https://www.themoviedb.org/movie/1339713</guid>
@@ -58,6 +49,15 @@
       <enclosure url="https://image.tmdb.org/t/p/w500/mDCR1frpUvGfIKksuM440VLb7X9.jpg" type="image/jpeg" length="0"/>
       <media:thumbnail url="https://image.tmdb.org/t/p/w500/mDCR1frpUvGfIKksuM440VLb7X9.jpg"/>
       <media:content url="https://image.tmdb.org/t/p/w500/mDCR1frpUvGfIKksuM440VLb7X9.jpg" medium="image"/>
+    </item>
+    <item>
+      <title>Street Fighter</title>
+      <link>https://www.themoviedb.org/movie/1153576</link>
+      <guid>https://www.themoviedb.org/movie/1153576</guid>
+      <description>En 1993, Ryu et Ken Masters, deux Street Fighters autrefois inséparables, sont replongés dans l’arène lorsque la mystérieuse Chun-Li les recrute pour le prochain World Warrior Tournament : un affronte</description>
+      <enclosure url="https://image.tmdb.org/t/p/w500/k53HHxQ4rQG0dME6nsofii3QNS7.jpg" type="image/jpeg" length="0"/>
+      <media:thumbnail url="https://image.tmdb.org/t/p/w500/k53HHxQ4rQG0dME6nsofii3QNS7.jpg"/>
+      <media:content url="https://image.tmdb.org/t/p/w500/k53HHxQ4rQG0dME6nsofii3QNS7.jpg" medium="image"/>
     </item>
     <item>
       <title>Raison et Sentiments</title>
@@ -96,15 +96,6 @@
       <media:content url="https://image.tmdb.org/t/p/w500/qXekTarZKRrVfnBwhS6xevt6BGU.jpg" medium="image"/>
     </item>
     <item>
-      <title>Digger</title>
-      <link>https://www.themoviedb.org/movie/1248832</link>
-      <guid>https://www.themoviedb.org/movie/1248832</guid>
-      <description>L’homme le plus puissant du monde se lance dans une mission frénétique pour prouver qu’il est le sauveur de l’humanité avant que le désastre qu’il a déclenché ne détruise tout.</description>
-      <enclosure url="https://image.tmdb.org/t/p/w500/gPCCGMQCrrMNM3mR3vqIdbdJxJ5.jpg" type="image/jpeg" length="0"/>
-      <media:thumbnail url="https://image.tmdb.org/t/p/w500/gPCCGMQCrrMNM3mR3vqIdbdJxJ5.jpg"/>
-      <media:content url="https://image.tmdb.org/t/p/w500/gPCCGMQCrrMNM3mR3vqIdbdJxJ5.jpg" medium="image"/>
-    </item>
-    <item>
       <title>Wicker</title>
       <link>https://www.themoviedb.org/movie/1195803</link>
       <guid>https://www.themoviedb.org/movie/1195803</guid>
@@ -112,6 +103,15 @@
       <enclosure url="https://image.tmdb.org/t/p/w500/fjoHeK9kmoN46dUPGVpZA5rD27g.jpg" type="image/jpeg" length="0"/>
       <media:thumbnail url="https://image.tmdb.org/t/p/w500/fjoHeK9kmoN46dUPGVpZA5rD27g.jpg"/>
       <media:content url="https://image.tmdb.org/t/p/w500/fjoHeK9kmoN46dUPGVpZA5rD27g.jpg" medium="image"/>
+    </item>
+    <item>
+      <title>Digger</title>
+      <link>https://www.themoviedb.org/movie/1248832</link>
+      <guid>https://www.themoviedb.org/movie/1248832</guid>
+      <description>L’homme le plus puissant du monde se lance dans une mission frénétique pour prouver qu’il est le sauveur de l’humanité avant que le désastre qu’il a déclenché ne détruise tout.</description>
+      <enclosure url="https://image.tmdb.org/t/p/w500/gPCCGMQCrrMNM3mR3vqIdbdJxJ5.jpg" type="image/jpeg" length="0"/>
+      <media:thumbnail url="https://image.tmdb.org/t/p/w500/gPCCGMQCrrMNM3mR3vqIdbdJxJ5.jpg"/>
+      <media:content url="https://image.tmdb.org/t/p/w500/gPCCGMQCrrMNM3mR3vqIdbdJxJ5.jpg" medium="image"/>
     </item>
     <item>
       <title>Englouti</title>
