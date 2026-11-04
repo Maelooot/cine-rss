@@ -4,7 +4,7 @@
     <title>Au cinéma en ce moment</title>
     <link>https://www.themoviedb.org/movie/now-playing</link>
     <description>Films à l'affiche en France</description>
-    <lastBuildDate>Tue, 03 Nov 2026 12:37:36 -0000</lastBuildDate>
+    <lastBuildDate>Wed, 04 Nov 2026 12:47:19 -0000</lastBuildDate>
     <item>
       <title>Hope</title>
       <link>https://www.themoviedb.org/movie/1058424</link>
@@ -51,24 +51,6 @@
       <media:content url="https://image.tmdb.org/t/p/w500/mDCR1frpUvGfIKksuM440VLb7X9.jpg" medium="image"/>
     </item>
     <item>
-      <title>Street Fighter</title>
-      <link>https://www.themoviedb.org/movie/1153576</link>
-      <guid>https://www.themoviedb.org/movie/1153576</guid>
-      <description>En 1993, Ryu et Ken Masters, deux Street Fighters autrefois inséparables, sont replongés dans l’arène lorsque la mystérieuse Chun-Li les recrute pour le prochain World Warrior Tournament : un affronte</description>
-      <enclosure url="https://image.tmdb.org/t/p/w500/k53HHxQ4rQG0dME6nsofii3QNS7.jpg" type="image/jpeg" length="0"/>
-      <media:thumbnail url="https://image.tmdb.org/t/p/w500/k53HHxQ4rQG0dME6nsofii3QNS7.jpg"/>
-      <media:content url="https://image.tmdb.org/t/p/w500/k53HHxQ4rQG0dME6nsofii3QNS7.jpg" medium="image"/>
-    </item>
-    <item>
-      <title>Raison et Sentiments</title>
-      <link>https://www.themoviedb.org/movie/1503762</link>
-      <guid>https://www.themoviedb.org/movie/1503762</guid>
-      <description>Une irrésistible nouvelle version du roman culte de Jane Austin, Raison et Sentiments, qui suit deux sœurs à travers leurs amours, leurs chagrins et le lien qui les unit d'une façon magistrale et prof</description>
-      <enclosure url="https://image.tmdb.org/t/p/w500/hpYHHl0P978F6AX5Xeew0fi2ryI.jpg" type="image/jpeg" length="0"/>
-      <media:thumbnail url="https://image.tmdb.org/t/p/w500/hpYHHl0P978F6AX5Xeew0fi2ryI.jpg"/>
-      <media:content url="https://image.tmdb.org/t/p/w500/hpYHHl0P978F6AX5Xeew0fi2ryI.jpg" medium="image"/>
-    </item>
-    <item>
       <title>Malfaisante</title>
       <link>https://www.themoviedb.org/movie/1400837</link>
       <guid>https://www.themoviedb.org/movie/1400837</guid>
@@ -78,22 +60,13 @@
       <media:content url="https://image.tmdb.org/t/p/w500/uLNxn6niIICbkRcRKVOX9aXqRHb.jpg" medium="image"/>
     </item>
     <item>
-      <title>Heart of the Beast</title>
-      <link>https://www.themoviedb.org/movie/1263337</link>
-      <guid>https://www.themoviedb.org/movie/1263337</guid>
-      <description>Après un terrible crash d’avion, James Belmont (Brad Pitt), ancien des forces spéciales, se retrouve perdu au cœur de l’Alaska avec son chien Odin, depuis toujours à ses côtés. Livrés à eux-mêmes dans</description>
-      <enclosure url="https://image.tmdb.org/t/p/w500/qjH0jF5cLZiKS97eNn4S2AdpiHW.jpg" type="image/jpeg" length="0"/>
-      <media:thumbnail url="https://image.tmdb.org/t/p/w500/qjH0jF5cLZiKS97eNn4S2AdpiHW.jpg"/>
-      <media:content url="https://image.tmdb.org/t/p/w500/qjH0jF5cLZiKS97eNn4S2AdpiHW.jpg" medium="image"/>
-    </item>
-    <item>
-      <title>Avengers : Endgame</title>
-      <link>https://www.themoviedb.org/movie/299534</link>
-      <guid>https://www.themoviedb.org/movie/299534</guid>
-      <description>Après leur défaite face au Titan Thanos qui dans le film précédent s'est approprié toutes les pierres du Gant de l'infini, les Avengers et les Gardiens de la Galaxie ayant survécu à son claquement de </description>
-      <enclosure url="https://image.tmdb.org/t/p/w500/qXekTarZKRrVfnBwhS6xevt6BGU.jpg" type="image/jpeg" length="0"/>
-      <media:thumbnail url="https://image.tmdb.org/t/p/w500/qXekTarZKRrVfnBwhS6xevt6BGU.jpg"/>
-      <media:content url="https://image.tmdb.org/t/p/w500/qXekTarZKRrVfnBwhS6xevt6BGU.jpg" medium="image"/>
+      <title>Street Fighter</title>
+      <link>https://www.themoviedb.org/movie/1153576</link>
+      <guid>https://www.themoviedb.org/movie/1153576</guid>
+      <description>En 1993, Ryu et Ken Masters, deux Street Fighters autrefois inséparables, sont replongés dans l’arène lorsque la mystérieuse Chun-Li les recrute pour le prochain World Warrior Tournament : un affronte</description>
+      <enclosure url="https://image.tmdb.org/t/p/w500/k53HHxQ4rQG0dME6nsofii3QNS7.jpg" type="image/jpeg" length="0"/>
+      <media:thumbnail url="https://image.tmdb.org/t/p/w500/k53HHxQ4rQG0dME6nsofii3QNS7.jpg"/>
+      <media:content url="https://image.tmdb.org/t/p/w500/k53HHxQ4rQG0dME6nsofii3QNS7.jpg" medium="image"/>
     </item>
     <item>
       <title>Wicker</title>
@@ -114,6 +87,15 @@
       <media:content url="https://image.tmdb.org/t/p/w500/gPCCGMQCrrMNM3mR3vqIdbdJxJ5.jpg" medium="image"/>
     </item>
     <item>
+      <title>Godzilla Minus Zero</title>
+      <link>https://www.themoviedb.org/movie/1381071</link>
+      <guid>https://www.themoviedb.org/movie/1381071</guid>
+      <description>Japon après la Seconde Guerre mondiale, Shikishima Koichi, un ancien pilote kamikaze survit à une rencontre avec Godzilla et souffre de symptômes de stress post-traumatique. Lorsque la créature réappa</description>
+      <enclosure url="https://image.tmdb.org/t/p/w500/zpcoFlZwyLnBt7bb5wmvGDCdg06.jpg" type="image/jpeg" length="0"/>
+      <media:thumbnail url="https://image.tmdb.org/t/p/w500/zpcoFlZwyLnBt7bb5wmvGDCdg06.jpg"/>
+      <media:content url="https://image.tmdb.org/t/p/w500/zpcoFlZwyLnBt7bb5wmvGDCdg06.jpg" medium="image"/>
+    </item>
+    <item>
       <title>Englouti</title>
       <link>https://www.themoviedb.org/movie/1255833</link>
       <guid>https://www.themoviedb.org/movie/1255833</guid>
@@ -123,13 +105,31 @@
       <media:content url="https://image.tmdb.org/t/p/w500/qLt9F35AdGKDXPSJtqH5DERoigI.jpg" medium="image"/>
     </item>
     <item>
-      <title>Primetime</title>
-      <link>https://www.themoviedb.org/movie/1375441</link>
-      <guid>https://www.themoviedb.org/movie/1375441</guid>
-      <description>Chris Hansen présente l'émission policière « To Catch a Predator ». Diffusée sur NBC Dateline, cette émission tente de filmer des pédophiles présumés avec l'aide des forces de l'ordre et d'une équipe </description>
-      <enclosure url="https://image.tmdb.org/t/p/w500/rhF8JALH8wrxKtXSCAB7a09tWsc.jpg" type="image/jpeg" length="0"/>
-      <media:thumbnail url="https://image.tmdb.org/t/p/w500/rhF8JALH8wrxKtXSCAB7a09tWsc.jpg"/>
-      <media:content url="https://image.tmdb.org/t/p/w500/rhF8JALH8wrxKtXSCAB7a09tWsc.jpg" medium="image"/>
+      <title>Your Mother Your Mother Your Mother</title>
+      <link>https://www.themoviedb.org/movie/1437396</link>
+      <guid>https://www.themoviedb.org/movie/1437396</guid>
+      <description>À Houston, Latif, tueur à gages musulman et père de trois enfants, perd brutalement sa femme. Lorsque son nouveau-né refuse le lait maternisé, il se lance à la recherche d'Une nourrice, une démarche q</description>
+      <enclosure url="https://image.tmdb.org/t/p/w500/4KaPZSKnInnArErTTgy9Oy14leR.jpg" type="image/jpeg" length="0"/>
+      <media:thumbnail url="https://image.tmdb.org/t/p/w500/4KaPZSKnInnArErTTgy9Oy14leR.jpg"/>
+      <media:content url="https://image.tmdb.org/t/p/w500/4KaPZSKnInnArErTTgy9Oy14leR.jpg" medium="image"/>
+    </item>
+    <item>
+      <title>Ghost in the Cell</title>
+      <link>https://www.themoviedb.org/movie/1393326</link>
+      <guid>https://www.themoviedb.org/movie/1393326</guid>
+      <description>Dans une prison de haute sécurité, l'arrivée d'un nouveau détenu entraîne une série de meurtres barbares. Enfermés dans leurs cellules, les prisonniers doivent s'unir pour démasquer un fantôme surnatu</description>
+      <enclosure url="https://image.tmdb.org/t/p/w500/gF6Ijrq5bixh4qemCuroRwXtbBc.jpg" type="image/jpeg" length="0"/>
+      <media:thumbnail url="https://image.tmdb.org/t/p/w500/gF6Ijrq5bixh4qemCuroRwXtbBc.jpg"/>
+      <media:content url="https://image.tmdb.org/t/p/w500/gF6Ijrq5bixh4qemCuroRwXtbBc.jpg" medium="image"/>
+    </item>
+    <item>
+      <title>The Social Reckoning</title>
+      <link>https://www.themoviedb.org/movie/1281331</link>
+      <guid>https://www.themoviedb.org/movie/1281331</guid>
+      <description>L'histoire s'inspire de "The Facebook Files" du Wall Street Journal, une série d'articles publiés en octobre 2021 par Jeff Horowitz, qui ont révélé les rouages internes ainsi que les nombreux dommages</description>
+      <enclosure url="https://image.tmdb.org/t/p/w500/tF1P9HZEBJQ8w1KyBlS3zMS2Ogp.jpg" type="image/jpeg" length="0"/>
+      <media:thumbnail url="https://image.tmdb.org/t/p/w500/tF1P9HZEBJQ8w1KyBlS3zMS2Ogp.jpg"/>
+      <media:content url="https://image.tmdb.org/t/p/w500/tF1P9HZEBJQ8w1KyBlS3zMS2Ogp.jpg" medium="image"/>
     </item>
     <item>
       <title>Klara et le Soleil</title>
