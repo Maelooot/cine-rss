@@ -4,7 +4,7 @@
     <title>Au cinéma en ce moment</title>
     <link>https://www.themoviedb.org/movie/now-playing</link>
     <description>Films à l'affiche en France</description>
-    <lastBuildDate>Thu, 05 Nov 2026 12:56:07 -0000</lastBuildDate>
+    <lastBuildDate>Fri, 06 Nov 2026 12:42:55 -0000</lastBuildDate>
     <item>
       <title>Hope</title>
       <link>https://www.themoviedb.org/movie/1058424</link>
@@ -24,6 +24,15 @@
       <media:content url="https://image.tmdb.org/t/p/w500/1ob7dZ1rvAgHOpVJGjJ2voibOp.jpg" medium="image"/>
     </item>
     <item>
+      <title>Ramayana : L'avènement d'une légende</title>
+      <link>https://www.themoviedb.org/movie/656908</link>
+      <guid>https://www.themoviedb.org/movie/656908</guid>
+      <description>Une épopée ancienne suit un jeune prince et une jeune princesse dont le mariage et l'exil qui a suivi marquent le début d'un voyage légendaire. Leur histoire d'amour, de devoir et de destin ouvre la v</description>
+      <enclosure url="https://image.tmdb.org/t/p/w500/iCz9Wf8KCU8BXQ9Pws0pHctguiZ.jpg" type="image/jpeg" length="0"/>
+      <media:thumbnail url="https://image.tmdb.org/t/p/w500/iCz9Wf8KCU8BXQ9Pws0pHctguiZ.jpg"/>
+      <media:content url="https://image.tmdb.org/t/p/w500/iCz9Wf8KCU8BXQ9Pws0pHctguiZ.jpg" medium="image"/>
+    </item>
+    <item>
       <title>Clayface</title>
       <link>https://www.themoviedb.org/movie/1400940</link>
       <guid>https://www.themoviedb.org/movie/1400940</guid>
@@ -31,6 +40,15 @@
       <enclosure url="https://image.tmdb.org/t/p/w500/5RzUMLAYw2xHsd98UKcMC9s0ZQ.jpg" type="image/jpeg" length="0"/>
       <media:thumbnail url="https://image.tmdb.org/t/p/w500/5RzUMLAYw2xHsd98UKcMC9s0ZQ.jpg"/>
       <media:content url="https://image.tmdb.org/t/p/w500/5RzUMLAYw2xHsd98UKcMC9s0ZQ.jpg" medium="image"/>
+    </item>
+    <item>
+      <title>Godzilla Minus Zero</title>
+      <link>https://www.themoviedb.org/movie/1381071</link>
+      <guid>https://www.themoviedb.org/movie/1381071</guid>
+      <description>Japon après la Seconde Guerre mondiale, Shikishima Koichi, un ancien pilote kamikaze survit à une rencontre avec Godzilla et souffre de symptômes de stress post-traumatique. Lorsque la créature réappa</description>
+      <enclosure url="https://image.tmdb.org/t/p/w500/zpcoFlZwyLnBt7bb5wmvGDCdg06.jpg" type="image/jpeg" length="0"/>
+      <media:thumbnail url="https://image.tmdb.org/t/p/w500/zpcoFlZwyLnBt7bb5wmvGDCdg06.jpg"/>
+      <media:content url="https://image.tmdb.org/t/p/w500/zpcoFlZwyLnBt7bb5wmvGDCdg06.jpg" medium="image"/>
     </item>
     <item>
       <title>Obsession</title>
@@ -69,6 +87,15 @@
       <media:content url="https://image.tmdb.org/t/p/w500/k53HHxQ4rQG0dME6nsofii3QNS7.jpg" medium="image"/>
     </item>
     <item>
+      <title>Your Mother Your Mother Your Mother</title>
+      <link>https://www.themoviedb.org/movie/1437396</link>
+      <guid>https://www.themoviedb.org/movie/1437396</guid>
+      <description>À Houston, Latif, tueur à gages musulman et père de trois enfants, perd brutalement sa femme. Lorsque son nouveau-né refuse le lait maternisé, il se lance à la recherche d'Une nourrice, une démarche q</description>
+      <enclosure url="https://image.tmdb.org/t/p/w500/4KaPZSKnInnArErTTgy9Oy14leR.jpg" type="image/jpeg" length="0"/>
+      <media:thumbnail url="https://image.tmdb.org/t/p/w500/4KaPZSKnInnArErTTgy9Oy14leR.jpg"/>
+      <media:content url="https://image.tmdb.org/t/p/w500/4KaPZSKnInnArErTTgy9Oy14leR.jpg" medium="image"/>
+    </item>
+    <item>
       <title>Wicker</title>
       <link>https://www.themoviedb.org/movie/1195803</link>
       <guid>https://www.themoviedb.org/movie/1195803</guid>
@@ -76,15 +103,6 @@
       <enclosure url="https://image.tmdb.org/t/p/w500/fjoHeK9kmoN46dUPGVpZA5rD27g.jpg" type="image/jpeg" length="0"/>
       <media:thumbnail url="https://image.tmdb.org/t/p/w500/fjoHeK9kmoN46dUPGVpZA5rD27g.jpg"/>
       <media:content url="https://image.tmdb.org/t/p/w500/fjoHeK9kmoN46dUPGVpZA5rD27g.jpg" medium="image"/>
-    </item>
-    <item>
-      <title>Godzilla Minus Zero</title>
-      <link>https://www.themoviedb.org/movie/1381071</link>
-      <guid>https://www.themoviedb.org/movie/1381071</guid>
-      <description>Japon après la Seconde Guerre mondiale, Shikishima Koichi, un ancien pilote kamikaze survit à une rencontre avec Godzilla et souffre de symptômes de stress post-traumatique. Lorsque la créature réappa</description>
-      <enclosure url="https://image.tmdb.org/t/p/w500/zpcoFlZwyLnBt7bb5wmvGDCdg06.jpg" type="image/jpeg" length="0"/>
-      <media:thumbnail url="https://image.tmdb.org/t/p/w500/zpcoFlZwyLnBt7bb5wmvGDCdg06.jpg"/>
-      <media:content url="https://image.tmdb.org/t/p/w500/zpcoFlZwyLnBt7bb5wmvGDCdg06.jpg" medium="image"/>
     </item>
     <item>
       <title>Digger</title>
@@ -96,6 +114,15 @@
       <media:content url="https://image.tmdb.org/t/p/w500/gPCCGMQCrrMNM3mR3vqIdbdJxJ5.jpg" medium="image"/>
     </item>
     <item>
+      <title>Soldat fantôme</title>
+      <link>https://www.themoviedb.org/movie/1562642</link>
+      <guid>https://www.themoviedb.org/movie/1562642</guid>
+      <description>Un ingénieur en systèmes d'armement et ancien béret vert protège ses voisins du Wyoming contre une multinationale impitoyable qui menace leur communauté rurale.</description>
+      <enclosure url="https://image.tmdb.org/t/p/w500/8Y4oJ5iUs3hgPcDB3SIEmsNYjZk.jpg" type="image/jpeg" length="0"/>
+      <media:thumbnail url="https://image.tmdb.org/t/p/w500/8Y4oJ5iUs3hgPcDB3SIEmsNYjZk.jpg"/>
+      <media:content url="https://image.tmdb.org/t/p/w500/8Y4oJ5iUs3hgPcDB3SIEmsNYjZk.jpg" medium="image"/>
+    </item>
+    <item>
       <title>Englouti</title>
       <link>https://www.themoviedb.org/movie/1255833</link>
       <guid>https://www.themoviedb.org/movie/1255833</guid>
@@ -105,15 +132,6 @@
       <media:content url="https://image.tmdb.org/t/p/w500/qLt9F35AdGKDXPSJtqH5DERoigI.jpg" medium="image"/>
     </item>
     <item>
-      <title>Your Mother Your Mother Your Mother</title>
-      <link>https://www.themoviedb.org/movie/1437396</link>
-      <guid>https://www.themoviedb.org/movie/1437396</guid>
-      <description>À Houston, Latif, tueur à gages musulman et père de trois enfants, perd brutalement sa femme. Lorsque son nouveau-né refuse le lait maternisé, il se lance à la recherche d'Une nourrice, une démarche q</description>
-      <enclosure url="https://image.tmdb.org/t/p/w500/4KaPZSKnInnArErTTgy9Oy14leR.jpg" type="image/jpeg" length="0"/>
-      <media:thumbnail url="https://image.tmdb.org/t/p/w500/4KaPZSKnInnArErTTgy9Oy14leR.jpg"/>
-      <media:content url="https://image.tmdb.org/t/p/w500/4KaPZSKnInnArErTTgy9Oy14leR.jpg" medium="image"/>
-    </item>
-    <item>
       <title>Ghost in the Cell</title>
       <link>https://www.themoviedb.org/movie/1393326</link>
       <guid>https://www.themoviedb.org/movie/1393326</guid>
@@ -121,24 +139,6 @@
       <enclosure url="https://image.tmdb.org/t/p/w500/gF6Ijrq5bixh4qemCuroRwXtbBc.jpg" type="image/jpeg" length="0"/>
       <media:thumbnail url="https://image.tmdb.org/t/p/w500/gF6Ijrq5bixh4qemCuroRwXtbBc.jpg"/>
       <media:content url="https://image.tmdb.org/t/p/w500/gF6Ijrq5bixh4qemCuroRwXtbBc.jpg" medium="image"/>
-    </item>
-    <item>
-      <title>Ramayana : L'avènement d'une légende</title>
-      <link>https://www.themoviedb.org/movie/656908</link>
-      <guid>https://www.themoviedb.org/movie/656908</guid>
-      <description>Une épopée ancienne suit un jeune prince et une jeune princesse dont le mariage et l'exil qui a suivi marquent le début d'un voyage légendaire. Leur histoire d'amour, de devoir et de destin ouvre la v</description>
-      <enclosure url="https://image.tmdb.org/t/p/w500/iCz9Wf8KCU8BXQ9Pws0pHctguiZ.jpg" type="image/jpeg" length="0"/>
-      <media:thumbnail url="https://image.tmdb.org/t/p/w500/iCz9Wf8KCU8BXQ9Pws0pHctguiZ.jpg"/>
-      <media:content url="https://image.tmdb.org/t/p/w500/iCz9Wf8KCU8BXQ9Pws0pHctguiZ.jpg" medium="image"/>
-    </item>
-    <item>
-      <title>The Social Reckoning</title>
-      <link>https://www.themoviedb.org/movie/1281331</link>
-      <guid>https://www.themoviedb.org/movie/1281331</guid>
-      <description>L'histoire s'inspire de "The Facebook Files" du Wall Street Journal, une série d'articles publiés en octobre 2021 par Jeff Horowitz, qui ont révélé les rouages internes ainsi que les nombreux dommages</description>
-      <enclosure url="https://image.tmdb.org/t/p/w500/tF1P9HZEBJQ8w1KyBlS3zMS2Ogp.jpg" type="image/jpeg" length="0"/>
-      <media:thumbnail url="https://image.tmdb.org/t/p/w500/tF1P9HZEBJQ8w1KyBlS3zMS2Ogp.jpg"/>
-      <media:content url="https://image.tmdb.org/t/p/w500/tF1P9HZEBJQ8w1KyBlS3zMS2Ogp.jpg" medium="image"/>
     </item>
   </channel>
 </rss>
