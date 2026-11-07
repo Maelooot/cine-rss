@@ -4,7 +4,7 @@
     <title>Au cinéma en ce moment</title>
     <link>https://www.themoviedb.org/movie/now-playing</link>
     <description>Films à l'affiche en France</description>
-    <lastBuildDate>Fri, 06 Nov 2026 12:42:55 -0000</lastBuildDate>
+    <lastBuildDate>Sat, 07 Nov 2026 11:31:19 -0000</lastBuildDate>
     <item>
       <title>Hope</title>
       <link>https://www.themoviedb.org/movie/1058424</link>
@@ -24,6 +24,15 @@
       <media:content url="https://image.tmdb.org/t/p/w500/1ob7dZ1rvAgHOpVJGjJ2voibOp.jpg" medium="image"/>
     </item>
     <item>
+      <title>Godzilla Minus Zero</title>
+      <link>https://www.themoviedb.org/movie/1381071</link>
+      <guid>https://www.themoviedb.org/movie/1381071</guid>
+      <description>Japon après la Seconde Guerre mondiale, Shikishima Koichi, un ancien pilote kamikaze survit à une rencontre avec Godzilla et souffre de symptômes de stress post-traumatique. Lorsque la créature réappa</description>
+      <enclosure url="https://image.tmdb.org/t/p/w500/zpcoFlZwyLnBt7bb5wmvGDCdg06.jpg" type="image/jpeg" length="0"/>
+      <media:thumbnail url="https://image.tmdb.org/t/p/w500/zpcoFlZwyLnBt7bb5wmvGDCdg06.jpg"/>
+      <media:content url="https://image.tmdb.org/t/p/w500/zpcoFlZwyLnBt7bb5wmvGDCdg06.jpg" medium="image"/>
+    </item>
+    <item>
       <title>Ramayana : L'avènement d'une légende</title>
       <link>https://www.themoviedb.org/movie/656908</link>
       <guid>https://www.themoviedb.org/movie/656908</guid>
@@ -40,15 +49,6 @@
       <enclosure url="https://image.tmdb.org/t/p/w500/5RzUMLAYw2xHsd98UKcMC9s0ZQ.jpg" type="image/jpeg" length="0"/>
       <media:thumbnail url="https://image.tmdb.org/t/p/w500/5RzUMLAYw2xHsd98UKcMC9s0ZQ.jpg"/>
       <media:content url="https://image.tmdb.org/t/p/w500/5RzUMLAYw2xHsd98UKcMC9s0ZQ.jpg" medium="image"/>
-    </item>
-    <item>
-      <title>Godzilla Minus Zero</title>
-      <link>https://www.themoviedb.org/movie/1381071</link>
-      <guid>https://www.themoviedb.org/movie/1381071</guid>
-      <description>Japon après la Seconde Guerre mondiale, Shikishima Koichi, un ancien pilote kamikaze survit à une rencontre avec Godzilla et souffre de symptômes de stress post-traumatique. Lorsque la créature réappa</description>
-      <enclosure url="https://image.tmdb.org/t/p/w500/zpcoFlZwyLnBt7bb5wmvGDCdg06.jpg" type="image/jpeg" length="0"/>
-      <media:thumbnail url="https://image.tmdb.org/t/p/w500/zpcoFlZwyLnBt7bb5wmvGDCdg06.jpg"/>
-      <media:content url="https://image.tmdb.org/t/p/w500/zpcoFlZwyLnBt7bb5wmvGDCdg06.jpg" medium="image"/>
     </item>
     <item>
       <title>Obsession</title>
@@ -123,6 +123,15 @@
       <media:content url="https://image.tmdb.org/t/p/w500/8Y4oJ5iUs3hgPcDB3SIEmsNYjZk.jpg" medium="image"/>
     </item>
     <item>
+      <title>Wild Horse Nine</title>
+      <link>https://www.themoviedb.org/movie/891621</link>
+      <guid>https://www.themoviedb.org/movie/891621</guid>
+      <description>Peu avant le coup d'État chilien de 1973, deux agents de la CIA, Chris et Lee, sont envoyés de Santiago vers l'île de Pâques par leur supérieur, MJ. Au milieu des statues emblématiques de l'île, tandi</description>
+      <enclosure url="https://image.tmdb.org/t/p/w500/hnBtud9vLr9arsUW8nxrzIz2uA4.jpg" type="image/jpeg" length="0"/>
+      <media:thumbnail url="https://image.tmdb.org/t/p/w500/hnBtud9vLr9arsUW8nxrzIz2uA4.jpg"/>
+      <media:content url="https://image.tmdb.org/t/p/w500/hnBtud9vLr9arsUW8nxrzIz2uA4.jpg" medium="image"/>
+    </item>
+    <item>
       <title>Englouti</title>
       <link>https://www.themoviedb.org/movie/1255833</link>
       <guid>https://www.themoviedb.org/movie/1255833</guid>
@@ -130,15 +139,6 @@
       <enclosure url="https://image.tmdb.org/t/p/w500/qLt9F35AdGKDXPSJtqH5DERoigI.jpg" type="image/jpeg" length="0"/>
       <media:thumbnail url="https://image.tmdb.org/t/p/w500/qLt9F35AdGKDXPSJtqH5DERoigI.jpg"/>
       <media:content url="https://image.tmdb.org/t/p/w500/qLt9F35AdGKDXPSJtqH5DERoigI.jpg" medium="image"/>
-    </item>
-    <item>
-      <title>Ghost in the Cell</title>
-      <link>https://www.themoviedb.org/movie/1393326</link>
-      <guid>https://www.themoviedb.org/movie/1393326</guid>
-      <description>Dans une prison de haute sécurité, l'arrivée d'un nouveau détenu entraîne une série de meurtres barbares. Enfermés dans leurs cellules, les prisonniers doivent s'unir pour démasquer un fantôme surnatu</description>
-      <enclosure url="https://image.tmdb.org/t/p/w500/gF6Ijrq5bixh4qemCuroRwXtbBc.jpg" type="image/jpeg" length="0"/>
-      <media:thumbnail url="https://image.tmdb.org/t/p/w500/gF6Ijrq5bixh4qemCuroRwXtbBc.jpg"/>
-      <media:content url="https://image.tmdb.org/t/p/w500/gF6Ijrq5bixh4qemCuroRwXtbBc.jpg" medium="image"/>
     </item>
   </channel>
 </rss>
