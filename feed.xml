@@ -4,7 +4,7 @@
     <title>Au cinéma en ce moment</title>
     <link>https://www.themoviedb.org/movie/now-playing</link>
     <description>Films à l'affiche en France</description>
-    <lastBuildDate>Sun, 08 Nov 2026 11:41:23 -0000</lastBuildDate>
+    <lastBuildDate>Mon, 09 Nov 2026 13:37:51 -0000</lastBuildDate>
     <item>
       <title>Hope</title>
       <link>https://www.themoviedb.org/movie/1058424</link>
@@ -15,6 +15,15 @@
       <media:content url="https://image.tmdb.org/t/p/w500/tGdFDoA9qyt0t6Qr9MFnOl8Z2Jz.jpg" medium="image"/>
     </item>
     <item>
+      <title>Godzilla Minus Zero</title>
+      <link>https://www.themoviedb.org/movie/1381071</link>
+      <guid>https://www.themoviedb.org/movie/1381071</guid>
+      <description>Japon après la Seconde Guerre mondiale, Shikishima Koichi, un ancien pilote kamikaze survit à une rencontre avec Godzilla et souffre de symptômes de stress post-traumatique. Lorsque la créature réappa</description>
+      <enclosure url="https://image.tmdb.org/t/p/w500/cZrs6whBv4JpPxsNJ2ZefhgUUEF.jpg" type="image/jpeg" length="0"/>
+      <media:thumbnail url="https://image.tmdb.org/t/p/w500/cZrs6whBv4JpPxsNJ2ZefhgUUEF.jpg"/>
+      <media:content url="https://image.tmdb.org/t/p/w500/cZrs6whBv4JpPxsNJ2ZefhgUUEF.jpg" medium="image"/>
+    </item>
+    <item>
       <title>Verity</title>
       <link>https://www.themoviedb.org/movie/1283515</link>
       <guid>https://www.themoviedb.org/movie/1283515</guid>
@@ -22,15 +31,6 @@
       <enclosure url="https://image.tmdb.org/t/p/w500/1ob7dZ1rvAgHOpVJGjJ2voibOp.jpg" type="image/jpeg" length="0"/>
       <media:thumbnail url="https://image.tmdb.org/t/p/w500/1ob7dZ1rvAgHOpVJGjJ2voibOp.jpg"/>
       <media:content url="https://image.tmdb.org/t/p/w500/1ob7dZ1rvAgHOpVJGjJ2voibOp.jpg" medium="image"/>
-    </item>
-    <item>
-      <title>Godzilla Minus Zero</title>
-      <link>https://www.themoviedb.org/movie/1381071</link>
-      <guid>https://www.themoviedb.org/movie/1381071</guid>
-      <description>Japon après la Seconde Guerre mondiale, Shikishima Koichi, un ancien pilote kamikaze survit à une rencontre avec Godzilla et souffre de symptômes de stress post-traumatique. Lorsque la créature réappa</description>
-      <enclosure url="https://image.tmdb.org/t/p/w500/uxHbKK2FisqW8jZghVgsD9KEy71.jpg" type="image/jpeg" length="0"/>
-      <media:thumbnail url="https://image.tmdb.org/t/p/w500/uxHbKK2FisqW8jZghVgsD9KEy71.jpg"/>
-      <media:content url="https://image.tmdb.org/t/p/w500/uxHbKK2FisqW8jZghVgsD9KEy71.jpg" medium="image"/>
     </item>
     <item>
       <title>Ramayana : L'avènement d'une légende</title>
@@ -78,15 +78,6 @@
       <media:content url="https://image.tmdb.org/t/p/w500/uLNxn6niIICbkRcRKVOX9aXqRHb.jpg" medium="image"/>
     </item>
     <item>
-      <title>Street Fighter</title>
-      <link>https://www.themoviedb.org/movie/1153576</link>
-      <guid>https://www.themoviedb.org/movie/1153576</guid>
-      <description>En 1993, Ryu et Ken Masters, deux Street Fighters autrefois inséparables, sont replongés dans l’arène lorsque la mystérieuse Chun-Li les recrute pour le prochain World Warrior Tournament : un affronte</description>
-      <enclosure url="https://image.tmdb.org/t/p/w500/k53HHxQ4rQG0dME6nsofii3QNS7.jpg" type="image/jpeg" length="0"/>
-      <media:thumbnail url="https://image.tmdb.org/t/p/w500/k53HHxQ4rQG0dME6nsofii3QNS7.jpg"/>
-      <media:content url="https://image.tmdb.org/t/p/w500/k53HHxQ4rQG0dME6nsofii3QNS7.jpg" medium="image"/>
-    </item>
-    <item>
       <title>Wild Horse Nine</title>
       <link>https://www.themoviedb.org/movie/891621</link>
       <guid>https://www.themoviedb.org/movie/891621</guid>
@@ -96,13 +87,13 @@
       <media:content url="https://image.tmdb.org/t/p/w500/hnBtud9vLr9arsUW8nxrzIz2uA4.jpg" medium="image"/>
     </item>
     <item>
-      <title>Your Mother Your Mother Your Mother</title>
-      <link>https://www.themoviedb.org/movie/1437396</link>
-      <guid>https://www.themoviedb.org/movie/1437396</guid>
-      <description>À Houston, Latif, tueur à gages musulman et père de trois enfants, perd brutalement sa femme. Lorsque son nouveau-né refuse le lait maternisé, il se lance à la recherche d'Une nourrice, une démarche q</description>
-      <enclosure url="https://image.tmdb.org/t/p/w500/4KaPZSKnInnArErTTgy9Oy14leR.jpg" type="image/jpeg" length="0"/>
-      <media:thumbnail url="https://image.tmdb.org/t/p/w500/4KaPZSKnInnArErTTgy9Oy14leR.jpg"/>
-      <media:content url="https://image.tmdb.org/t/p/w500/4KaPZSKnInnArErTTgy9Oy14leR.jpg" medium="image"/>
+      <title>Street Fighter</title>
+      <link>https://www.themoviedb.org/movie/1153576</link>
+      <guid>https://www.themoviedb.org/movie/1153576</guid>
+      <description>En 1993, Ryu et Ken Masters, deux Street Fighters autrefois inséparables, sont replongés dans l’arène lorsque la mystérieuse Chun-Li les recrute pour le prochain World Warrior Tournament : un affronte</description>
+      <enclosure url="https://image.tmdb.org/t/p/w500/k53HHxQ4rQG0dME6nsofii3QNS7.jpg" type="image/jpeg" length="0"/>
+      <media:thumbnail url="https://image.tmdb.org/t/p/w500/k53HHxQ4rQG0dME6nsofii3QNS7.jpg"/>
+      <media:content url="https://image.tmdb.org/t/p/w500/k53HHxQ4rQG0dME6nsofii3QNS7.jpg" medium="image"/>
     </item>
     <item>
       <title>Soldat fantôme</title>
@@ -114,6 +105,15 @@
       <media:content url="https://image.tmdb.org/t/p/w500/8Y4oJ5iUs3hgPcDB3SIEmsNYjZk.jpg" medium="image"/>
     </item>
     <item>
+      <title>Your Mother Your Mother Your Mother</title>
+      <link>https://www.themoviedb.org/movie/1437396</link>
+      <guid>https://www.themoviedb.org/movie/1437396</guid>
+      <description>À Houston, Latif, tueur à gages musulman et père de trois enfants, perd brutalement sa femme. Lorsque son nouveau-né refuse le lait maternisé, il se lance à la recherche d'Une nourrice, une démarche q</description>
+      <enclosure url="https://image.tmdb.org/t/p/w500/4KaPZSKnInnArErTTgy9Oy14leR.jpg" type="image/jpeg" length="0"/>
+      <media:thumbnail url="https://image.tmdb.org/t/p/w500/4KaPZSKnInnArErTTgy9Oy14leR.jpg"/>
+      <media:content url="https://image.tmdb.org/t/p/w500/4KaPZSKnInnArErTTgy9Oy14leR.jpg" medium="image"/>
+    </item>
+    <item>
       <title>Wicker</title>
       <link>https://www.themoviedb.org/movie/1195803</link>
       <guid>https://www.themoviedb.org/movie/1195803</guid>
@@ -123,15 +123,6 @@
       <media:content url="https://image.tmdb.org/t/p/w500/fjoHeK9kmoN46dUPGVpZA5rD27g.jpg" medium="image"/>
     </item>
     <item>
-      <title>Digger</title>
-      <link>https://www.themoviedb.org/movie/1248832</link>
-      <guid>https://www.themoviedb.org/movie/1248832</guid>
-      <description>L’homme le plus puissant du monde se lance dans une mission frénétique pour prouver qu’il est le sauveur de l’humanité avant que le désastre qu’il a déclenché ne détruise tout.</description>
-      <enclosure url="https://image.tmdb.org/t/p/w500/gPCCGMQCrrMNM3mR3vqIdbdJxJ5.jpg" type="image/jpeg" length="0"/>
-      <media:thumbnail url="https://image.tmdb.org/t/p/w500/gPCCGMQCrrMNM3mR3vqIdbdJxJ5.jpg"/>
-      <media:content url="https://image.tmdb.org/t/p/w500/gPCCGMQCrrMNM3mR3vqIdbdJxJ5.jpg" medium="image"/>
-    </item>
-    <item>
       <title>Ghost in the Cell</title>
       <link>https://www.themoviedb.org/movie/1393326</link>
       <guid>https://www.themoviedb.org/movie/1393326</guid>
@@ -139,6 +130,15 @@
       <enclosure url="https://image.tmdb.org/t/p/w500/gF6Ijrq5bixh4qemCuroRwXtbBc.jpg" type="image/jpeg" length="0"/>
       <media:thumbnail url="https://image.tmdb.org/t/p/w500/gF6Ijrq5bixh4qemCuroRwXtbBc.jpg"/>
       <media:content url="https://image.tmdb.org/t/p/w500/gF6Ijrq5bixh4qemCuroRwXtbBc.jpg" medium="image"/>
+    </item>
+    <item>
+      <title>Digger</title>
+      <link>https://www.themoviedb.org/movie/1248832</link>
+      <guid>https://www.themoviedb.org/movie/1248832</guid>
+      <description>L’homme le plus puissant du monde se lance dans une mission frénétique pour prouver qu’il est le sauveur de l’humanité avant que le désastre qu’il a déclenché ne détruise tout.</description>
+      <enclosure url="https://image.tmdb.org/t/p/w500/gPCCGMQCrrMNM3mR3vqIdbdJxJ5.jpg" type="image/jpeg" length="0"/>
+      <media:thumbnail url="https://image.tmdb.org/t/p/w500/gPCCGMQCrrMNM3mR3vqIdbdJxJ5.jpg"/>
+      <media:content url="https://image.tmdb.org/t/p/w500/gPCCGMQCrrMNM3mR3vqIdbdJxJ5.jpg" medium="image"/>
     </item>
   </channel>
 </rss>
