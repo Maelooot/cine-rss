@@ -4,7 +4,7 @@
     <title>Au cinéma en ce moment</title>
     <link>https://www.themoviedb.org/movie/now-playing</link>
     <description>Films à l'affiche en France</description>
-    <lastBuildDate>Mon, 09 Nov 2026 13:37:51 -0000</lastBuildDate>
+    <lastBuildDate>Tue, 10 Nov 2026 13:15:54 -0000</lastBuildDate>
     <item>
       <title>Hope</title>
       <link>https://www.themoviedb.org/movie/1058424</link>
@@ -42,6 +42,15 @@
       <media:content url="https://image.tmdb.org/t/p/w500/iCz9Wf8KCU8BXQ9Pws0pHctguiZ.jpg" medium="image"/>
     </item>
     <item>
+      <title>Obsession</title>
+      <link>https://www.themoviedb.org/movie/1339713</link>
+      <guid>https://www.themoviedb.org/movie/1339713</guid>
+      <description>Et si vous pouviez réaliser votre rêve le plus fou ? Un jeune introverti met la main sur un objet magique capable d’exaucer n’importe quel souhait. Son crush de toujours tombe alors raide dingue de lu</description>
+      <enclosure url="https://image.tmdb.org/t/p/w500/mDCR1frpUvGfIKksuM440VLb7X9.jpg" type="image/jpeg" length="0"/>
+      <media:thumbnail url="https://image.tmdb.org/t/p/w500/mDCR1frpUvGfIKksuM440VLb7X9.jpg"/>
+      <media:content url="https://image.tmdb.org/t/p/w500/mDCR1frpUvGfIKksuM440VLb7X9.jpg" medium="image"/>
+    </item>
+    <item>
       <title>Clayface</title>
       <link>https://www.themoviedb.org/movie/1400940</link>
       <guid>https://www.themoviedb.org/movie/1400940</guid>
@@ -51,13 +60,13 @@
       <media:content url="https://image.tmdb.org/t/p/w500/5RzUMLAYw2xHsd98UKcMC9s0ZQ.jpg" medium="image"/>
     </item>
     <item>
-      <title>Obsession</title>
-      <link>https://www.themoviedb.org/movie/1339713</link>
-      <guid>https://www.themoviedb.org/movie/1339713</guid>
-      <description>Et si vous pouviez réaliser votre rêve le plus fou ? Un jeune introverti met la main sur un objet magique capable d’exaucer n’importe quel souhait. Son crush de toujours tombe alors raide dingue de lu</description>
-      <enclosure url="https://image.tmdb.org/t/p/w500/mDCR1frpUvGfIKksuM440VLb7X9.jpg" type="image/jpeg" length="0"/>
-      <media:thumbnail url="https://image.tmdb.org/t/p/w500/mDCR1frpUvGfIKksuM440VLb7X9.jpg"/>
-      <media:content url="https://image.tmdb.org/t/p/w500/mDCR1frpUvGfIKksuM440VLb7X9.jpg" medium="image"/>
+      <title>Wild Horse Nine</title>
+      <link>https://www.themoviedb.org/movie/891621</link>
+      <guid>https://www.themoviedb.org/movie/891621</guid>
+      <description>Peu avant le coup d'État chilien de 1973, deux agents de la CIA, Chris et Lee, sont envoyés de Santiago vers l'île de Pâques par leur supérieur, MJ. Au milieu des statues emblématiques de l'île, tandi</description>
+      <enclosure url="https://image.tmdb.org/t/p/w500/hnBtud9vLr9arsUW8nxrzIz2uA4.jpg" type="image/jpeg" length="0"/>
+      <media:thumbnail url="https://image.tmdb.org/t/p/w500/hnBtud9vLr9arsUW8nxrzIz2uA4.jpg"/>
+      <media:content url="https://image.tmdb.org/t/p/w500/hnBtud9vLr9arsUW8nxrzIz2uA4.jpg" medium="image"/>
     </item>
     <item>
       <title>L'île des souvenirs</title>
@@ -78,15 +87,6 @@
       <media:content url="https://image.tmdb.org/t/p/w500/uLNxn6niIICbkRcRKVOX9aXqRHb.jpg" medium="image"/>
     </item>
     <item>
-      <title>Wild Horse Nine</title>
-      <link>https://www.themoviedb.org/movie/891621</link>
-      <guid>https://www.themoviedb.org/movie/891621</guid>
-      <description>Peu avant le coup d'État chilien de 1973, deux agents de la CIA, Chris et Lee, sont envoyés de Santiago vers l'île de Pâques par leur supérieur, MJ. Au milieu des statues emblématiques de l'île, tandi</description>
-      <enclosure url="https://image.tmdb.org/t/p/w500/hnBtud9vLr9arsUW8nxrzIz2uA4.jpg" type="image/jpeg" length="0"/>
-      <media:thumbnail url="https://image.tmdb.org/t/p/w500/hnBtud9vLr9arsUW8nxrzIz2uA4.jpg"/>
-      <media:content url="https://image.tmdb.org/t/p/w500/hnBtud9vLr9arsUW8nxrzIz2uA4.jpg" medium="image"/>
-    </item>
-    <item>
       <title>Street Fighter</title>
       <link>https://www.themoviedb.org/movie/1153576</link>
       <guid>https://www.themoviedb.org/movie/1153576</guid>
@@ -94,15 +94,6 @@
       <enclosure url="https://image.tmdb.org/t/p/w500/k53HHxQ4rQG0dME6nsofii3QNS7.jpg" type="image/jpeg" length="0"/>
       <media:thumbnail url="https://image.tmdb.org/t/p/w500/k53HHxQ4rQG0dME6nsofii3QNS7.jpg"/>
       <media:content url="https://image.tmdb.org/t/p/w500/k53HHxQ4rQG0dME6nsofii3QNS7.jpg" medium="image"/>
-    </item>
-    <item>
-      <title>Soldat fantôme</title>
-      <link>https://www.themoviedb.org/movie/1562642</link>
-      <guid>https://www.themoviedb.org/movie/1562642</guid>
-      <description>Un ingénieur en systèmes d'armement et ancien béret vert protège ses voisins du Wyoming contre une multinationale impitoyable qui menace leur communauté rurale.</description>
-      <enclosure url="https://image.tmdb.org/t/p/w500/8Y4oJ5iUs3hgPcDB3SIEmsNYjZk.jpg" type="image/jpeg" length="0"/>
-      <media:thumbnail url="https://image.tmdb.org/t/p/w500/8Y4oJ5iUs3hgPcDB3SIEmsNYjZk.jpg"/>
-      <media:content url="https://image.tmdb.org/t/p/w500/8Y4oJ5iUs3hgPcDB3SIEmsNYjZk.jpg" medium="image"/>
     </item>
     <item>
       <title>Your Mother Your Mother Your Mother</title>
@@ -130,6 +121,15 @@
       <enclosure url="https://image.tmdb.org/t/p/w500/gF6Ijrq5bixh4qemCuroRwXtbBc.jpg" type="image/jpeg" length="0"/>
       <media:thumbnail url="https://image.tmdb.org/t/p/w500/gF6Ijrq5bixh4qemCuroRwXtbBc.jpg"/>
       <media:content url="https://image.tmdb.org/t/p/w500/gF6Ijrq5bixh4qemCuroRwXtbBc.jpg" medium="image"/>
+    </item>
+    <item>
+      <title>Englouti</title>
+      <link>https://www.themoviedb.org/movie/1255833</link>
+      <guid>https://www.themoviedb.org/movie/1255833</guid>
+      <description>Un plongeur sous-marin est à la recherche des restes de son père décédé, qui s'est fait avaler par un cachalot. Il ne lui reste plus qu'une heure avant que l'oxygène ne vienne à lui manquer.</description>
+      <enclosure url="https://image.tmdb.org/t/p/w500/qLt9F35AdGKDXPSJtqH5DERoigI.jpg" type="image/jpeg" length="0"/>
+      <media:thumbnail url="https://image.tmdb.org/t/p/w500/qLt9F35AdGKDXPSJtqH5DERoigI.jpg"/>
+      <media:content url="https://image.tmdb.org/t/p/w500/qLt9F35AdGKDXPSJtqH5DERoigI.jpg" medium="image"/>
     </item>
     <item>
       <title>Digger</title>
