@@ -4,7 +4,7 @@
     <title>Au cinéma en ce moment</title>
     <link>https://www.themoviedb.org/movie/now-playing</link>
     <description>Films à l'affiche en France</description>
-    <lastBuildDate>Thu, 12 Nov 2026 13:32:10 -0000</lastBuildDate>
+    <lastBuildDate>Fri, 13 Nov 2026 12:51:39 -0000</lastBuildDate>
     <item>
       <title>Hope</title>
       <link>https://www.themoviedb.org/movie/1058424</link>
@@ -13,6 +13,15 @@
       <enclosure url="https://image.tmdb.org/t/p/w500/tGdFDoA9qyt0t6Qr9MFnOl8Z2Jz.jpg" type="image/jpeg" length="0"/>
       <media:thumbnail url="https://image.tmdb.org/t/p/w500/tGdFDoA9qyt0t6Qr9MFnOl8Z2Jz.jpg"/>
       <media:content url="https://image.tmdb.org/t/p/w500/tGdFDoA9qyt0t6Qr9MFnOl8Z2Jz.jpg" medium="image"/>
+    </item>
+    <item>
+      <title>Malfaisante</title>
+      <link>https://www.themoviedb.org/movie/1400837</link>
+      <guid>https://www.themoviedb.org/movie/1400837</guid>
+      <description>Une jeune fille, Bela, développe dans son foyer une relation avec une entité troublante qui ressemble étrangement à sa mère. Son « autre maman » n'est pas que le fruit de son imagination. Cette entité</description>
+      <enclosure url="https://image.tmdb.org/t/p/w500/a6AztQlJvKy2tEOc10M7WXIF5gX.jpg" type="image/jpeg" length="0"/>
+      <media:thumbnail url="https://image.tmdb.org/t/p/w500/a6AztQlJvKy2tEOc10M7WXIF5gX.jpg"/>
+      <media:content url="https://image.tmdb.org/t/p/w500/a6AztQlJvKy2tEOc10M7WXIF5gX.jpg" medium="image"/>
     </item>
     <item>
       <title>Godzilla Minus Zero</title>
@@ -33,13 +42,13 @@
       <media:content url="https://image.tmdb.org/t/p/w500/iCz9Wf8KCU8BXQ9Pws0pHctguiZ.jpg" medium="image"/>
     </item>
     <item>
-      <title>Malfaisante</title>
-      <link>https://www.themoviedb.org/movie/1400837</link>
-      <guid>https://www.themoviedb.org/movie/1400837</guid>
-      <description>Une jeune fille, Bela, développe dans son foyer une relation avec une entité troublante qui ressemble étrangement à sa mère. Son « autre maman » n'est pas que le fruit de son imagination. Cette entité</description>
-      <enclosure url="https://image.tmdb.org/t/p/w500/a6AztQlJvKy2tEOc10M7WXIF5gX.jpg" type="image/jpeg" length="0"/>
-      <media:thumbnail url="https://image.tmdb.org/t/p/w500/a6AztQlJvKy2tEOc10M7WXIF5gX.jpg"/>
-      <media:content url="https://image.tmdb.org/t/p/w500/a6AztQlJvKy2tEOc10M7WXIF5gX.jpg" medium="image"/>
+      <title>Scrooge</title>
+      <link>https://www.themoviedb.org/movie/1567605</link>
+      <guid>https://www.themoviedb.org/movie/1567605</guid>
+      <description>Ebenezer Scrooge est un vieil homme avare, pingre et solitaire. Bien évidemment, il déteste et méprise Noël et tout ce qui engendre le bonheur. C'est alors qu'il reçoit la visite du fantôme d'un ancie</description>
+      <enclosure url="https://image.tmdb.org/t/p/w500/uxYPnpkSmG1iluoSB0fOtYK7BfM.jpg" type="image/jpeg" length="0"/>
+      <media:thumbnail url="https://image.tmdb.org/t/p/w500/uxYPnpkSmG1iluoSB0fOtYK7BfM.jpg"/>
+      <media:content url="https://image.tmdb.org/t/p/w500/uxYPnpkSmG1iluoSB0fOtYK7BfM.jpg" medium="image"/>
     </item>
     <item>
       <title>Clayface</title>
@@ -60,6 +69,15 @@
       <media:content url="https://image.tmdb.org/t/p/w500/mDCR1frpUvGfIKksuM440VLb7X9.jpg" medium="image"/>
     </item>
     <item>
+      <title>Street Fighter</title>
+      <link>https://www.themoviedb.org/movie/1153576</link>
+      <guid>https://www.themoviedb.org/movie/1153576</guid>
+      <description>En 1993, Ryu et Ken Masters, deux Street Fighters autrefois inséparables, sont replongés dans l’arène lorsque la mystérieuse Chun-Li les recrute pour le prochain World Warrior Tournament : un affronte</description>
+      <enclosure url="https://image.tmdb.org/t/p/w500/k53HHxQ4rQG0dME6nsofii3QNS7.jpg" type="image/jpeg" length="0"/>
+      <media:thumbnail url="https://image.tmdb.org/t/p/w500/k53HHxQ4rQG0dME6nsofii3QNS7.jpg"/>
+      <media:content url="https://image.tmdb.org/t/p/w500/k53HHxQ4rQG0dME6nsofii3QNS7.jpg" medium="image"/>
+    </item>
+    <item>
       <title>Wild Horse Nine</title>
       <link>https://www.themoviedb.org/movie/891621</link>
       <guid>https://www.themoviedb.org/movie/891621</guid>
@@ -78,15 +96,6 @@
       <media:content url="https://image.tmdb.org/t/p/w500/txvVTbY1cAsBe5tPX9c5m5SM3ml.jpg" medium="image"/>
     </item>
     <item>
-      <title>Street Fighter</title>
-      <link>https://www.themoviedb.org/movie/1153576</link>
-      <guid>https://www.themoviedb.org/movie/1153576</guid>
-      <description>En 1993, Ryu et Ken Masters, deux Street Fighters autrefois inséparables, sont replongés dans l’arène lorsque la mystérieuse Chun-Li les recrute pour le prochain World Warrior Tournament : un affronte</description>
-      <enclosure url="https://image.tmdb.org/t/p/w500/k53HHxQ4rQG0dME6nsofii3QNS7.jpg" type="image/jpeg" length="0"/>
-      <media:thumbnail url="https://image.tmdb.org/t/p/w500/k53HHxQ4rQG0dME6nsofii3QNS7.jpg"/>
-      <media:content url="https://image.tmdb.org/t/p/w500/k53HHxQ4rQG0dME6nsofii3QNS7.jpg" medium="image"/>
-    </item>
-    <item>
       <title>Your Mother Your Mother Your Mother</title>
       <link>https://www.themoviedb.org/movie/1437396</link>
       <guid>https://www.themoviedb.org/movie/1437396</guid>
@@ -94,33 +103,6 @@
       <enclosure url="https://image.tmdb.org/t/p/w500/4KaPZSKnInnArErTTgy9Oy14leR.jpg" type="image/jpeg" length="0"/>
       <media:thumbnail url="https://image.tmdb.org/t/p/w500/4KaPZSKnInnArErTTgy9Oy14leR.jpg"/>
       <media:content url="https://image.tmdb.org/t/p/w500/4KaPZSKnInnArErTTgy9Oy14leR.jpg" medium="image"/>
-    </item>
-    <item>
-      <title>Scrooge</title>
-      <link>https://www.themoviedb.org/movie/1567605</link>
-      <guid>https://www.themoviedb.org/movie/1567605</guid>
-      <description>Ebenezer Scrooge est un vieil homme avare, pingre et solitaire. Bien évidemment, il déteste et méprise Noël et tout ce qui engendre le bonheur. C'est alors qu'il reçoit la visite du fantôme d'un ancie</description>
-      <enclosure url="https://image.tmdb.org/t/p/w500/uxYPnpkSmG1iluoSB0fOtYK7BfM.jpg" type="image/jpeg" length="0"/>
-      <media:thumbnail url="https://image.tmdb.org/t/p/w500/uxYPnpkSmG1iluoSB0fOtYK7BfM.jpg"/>
-      <media:content url="https://image.tmdb.org/t/p/w500/uxYPnpkSmG1iluoSB0fOtYK7BfM.jpg" medium="image"/>
-    </item>
-    <item>
-      <title>Wicker</title>
-      <link>https://www.themoviedb.org/movie/1195803</link>
-      <guid>https://www.themoviedb.org/movie/1195803</guid>
-      <description>Mise au ban de son village, une pêcheuse solitaire commande au vannier local un mari en osier. Cet époux improbable se révèle doté d’une sensibilité et de talents qui dépassent toutes ses attentes. À </description>
-      <enclosure url="https://image.tmdb.org/t/p/w500/fjoHeK9kmoN46dUPGVpZA5rD27g.jpg" type="image/jpeg" length="0"/>
-      <media:thumbnail url="https://image.tmdb.org/t/p/w500/fjoHeK9kmoN46dUPGVpZA5rD27g.jpg"/>
-      <media:content url="https://image.tmdb.org/t/p/w500/fjoHeK9kmoN46dUPGVpZA5rD27g.jpg" medium="image"/>
-    </item>
-    <item>
-      <title>சீன்</title>
-      <link>https://www.themoviedb.org/movie/1402181</link>
-      <guid>https://www.themoviedb.org/movie/1402181</guid>
-      <description></description>
-      <enclosure url="https://image.tmdb.org/t/p/w500/1vjVJKpdT6gha7cpkmDJODpk8mU.jpg" type="image/jpeg" length="0"/>
-      <media:thumbnail url="https://image.tmdb.org/t/p/w500/1vjVJKpdT6gha7cpkmDJODpk8mU.jpg"/>
-      <media:content url="https://image.tmdb.org/t/p/w500/1vjVJKpdT6gha7cpkmDJODpk8mU.jpg" medium="image"/>
     </item>
     <item>
       <title>Hunger Games : Lever de soleil sur la moisson</title>
@@ -132,13 +114,31 @@
       <media:content url="https://image.tmdb.org/t/p/w500/7w6v7FHdTbxuKqAPiMqKxEq8hro.jpg" medium="image"/>
     </item>
     <item>
-      <title>Ghost in the Cell</title>
-      <link>https://www.themoviedb.org/movie/1393326</link>
-      <guid>https://www.themoviedb.org/movie/1393326</guid>
-      <description>Dans une prison de haute sécurité, l'arrivée d'un nouveau détenu entraîne une série de meurtres barbares. Enfermés dans leurs cellules, les prisonniers doivent s'unir pour démasquer un fantôme surnatu</description>
-      <enclosure url="https://image.tmdb.org/t/p/w500/gF6Ijrq5bixh4qemCuroRwXtbBc.jpg" type="image/jpeg" length="0"/>
-      <media:thumbnail url="https://image.tmdb.org/t/p/w500/gF6Ijrq5bixh4qemCuroRwXtbBc.jpg"/>
-      <media:content url="https://image.tmdb.org/t/p/w500/gF6Ijrq5bixh4qemCuroRwXtbBc.jpg" medium="image"/>
+      <title>ஜெயிலர் 2</title>
+      <link>https://www.themoviedb.org/movie/1234139</link>
+      <guid>https://www.themoviedb.org/movie/1234139</guid>
+      <description></description>
+      <enclosure url="https://image.tmdb.org/t/p/w500/upwdEyhhYZ7pT2hD535fr2MGfpx.jpg" type="image/jpeg" length="0"/>
+      <media:thumbnail url="https://image.tmdb.org/t/p/w500/upwdEyhhYZ7pT2hD535fr2MGfpx.jpg"/>
+      <media:content url="https://image.tmdb.org/t/p/w500/upwdEyhhYZ7pT2hD535fr2MGfpx.jpg" medium="image"/>
+    </item>
+    <item>
+      <title>சீன்</title>
+      <link>https://www.themoviedb.org/movie/1402181</link>
+      <guid>https://www.themoviedb.org/movie/1402181</guid>
+      <description></description>
+      <enclosure url="https://image.tmdb.org/t/p/w500/RtLW0aQ8sPk5lWH5nzHQmpiBu4.jpg" type="image/jpeg" length="0"/>
+      <media:thumbnail url="https://image.tmdb.org/t/p/w500/RtLW0aQ8sPk5lWH5nzHQmpiBu4.jpg"/>
+      <media:content url="https://image.tmdb.org/t/p/w500/RtLW0aQ8sPk5lWH5nzHQmpiBu4.jpg" medium="image"/>
+    </item>
+    <item>
+      <title>Wicker</title>
+      <link>https://www.themoviedb.org/movie/1195803</link>
+      <guid>https://www.themoviedb.org/movie/1195803</guid>
+      <description>Mise au ban de son village, une pêcheuse solitaire commande au vannier local un mari en osier. Cet époux improbable se révèle doté d’une sensibilité et de talents qui dépassent toutes ses attentes. À </description>
+      <enclosure url="https://image.tmdb.org/t/p/w500/fjoHeK9kmoN46dUPGVpZA5rD27g.jpg" type="image/jpeg" length="0"/>
+      <media:thumbnail url="https://image.tmdb.org/t/p/w500/fjoHeK9kmoN46dUPGVpZA5rD27g.jpg"/>
+      <media:content url="https://image.tmdb.org/t/p/w500/fjoHeK9kmoN46dUPGVpZA5rD27g.jpg" medium="image"/>
     </item>
   </channel>
 </rss>
