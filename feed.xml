@@ -4,7 +4,7 @@
     <title>Au cinéma en ce moment</title>
     <link>https://www.themoviedb.org/movie/now-playing</link>
     <description>Films à l'affiche en France</description>
-    <lastBuildDate>Fri, 13 Nov 2026 12:51:39 -0000</lastBuildDate>
+    <lastBuildDate>Sat, 14 Nov 2026 11:56:06 -0000</lastBuildDate>
     <item>
       <title>Hope</title>
       <link>https://www.themoviedb.org/movie/1058424</link>
@@ -37,9 +37,9 @@
       <link>https://www.themoviedb.org/movie/656908</link>
       <guid>https://www.themoviedb.org/movie/656908</guid>
       <description>Une épopée ancienne suit un jeune prince et une jeune princesse dont le mariage et l'exil qui a suivi marquent le début d'un voyage légendaire. Leur histoire d'amour, de devoir et de destin ouvre la v</description>
-      <enclosure url="https://image.tmdb.org/t/p/w500/iCz9Wf8KCU8BXQ9Pws0pHctguiZ.jpg" type="image/jpeg" length="0"/>
-      <media:thumbnail url="https://image.tmdb.org/t/p/w500/iCz9Wf8KCU8BXQ9Pws0pHctguiZ.jpg"/>
-      <media:content url="https://image.tmdb.org/t/p/w500/iCz9Wf8KCU8BXQ9Pws0pHctguiZ.jpg" medium="image"/>
+      <enclosure url="https://image.tmdb.org/t/p/w500/sCqbbDIfLfO52FWjmuVOVZKkVyV.jpg" type="image/jpeg" length="0"/>
+      <media:thumbnail url="https://image.tmdb.org/t/p/w500/sCqbbDIfLfO52FWjmuVOVZKkVyV.jpg"/>
+      <media:content url="https://image.tmdb.org/t/p/w500/sCqbbDIfLfO52FWjmuVOVZKkVyV.jpg" medium="image"/>
     </item>
     <item>
       <title>Scrooge</title>
@@ -78,15 +78,6 @@
       <media:content url="https://image.tmdb.org/t/p/w500/k53HHxQ4rQG0dME6nsofii3QNS7.jpg" medium="image"/>
     </item>
     <item>
-      <title>Wild Horse Nine</title>
-      <link>https://www.themoviedb.org/movie/891621</link>
-      <guid>https://www.themoviedb.org/movie/891621</guid>
-      <description>Peu avant le coup d'État chilien de 1973, deux agents de la CIA, Chris et Lee, sont envoyés de Santiago vers l'île de Pâques par leur supérieur, MJ. Au milieu des statues emblématiques de l'île, tandi</description>
-      <enclosure url="https://image.tmdb.org/t/p/w500/hnBtud9vLr9arsUW8nxrzIz2uA4.jpg" type="image/jpeg" length="0"/>
-      <media:thumbnail url="https://image.tmdb.org/t/p/w500/hnBtud9vLr9arsUW8nxrzIz2uA4.jpg"/>
-      <media:content url="https://image.tmdb.org/t/p/w500/hnBtud9vLr9arsUW8nxrzIz2uA4.jpg" medium="image"/>
-    </item>
-    <item>
       <title>L'île des souvenirs</title>
       <link>https://www.themoviedb.org/movie/1465063</link>
       <guid>https://www.themoviedb.org/movie/1465063</guid>
@@ -96,22 +87,22 @@
       <media:content url="https://image.tmdb.org/t/p/w500/txvVTbY1cAsBe5tPX9c5m5SM3ml.jpg" medium="image"/>
     </item>
     <item>
-      <title>Your Mother Your Mother Your Mother</title>
-      <link>https://www.themoviedb.org/movie/1437396</link>
-      <guid>https://www.themoviedb.org/movie/1437396</guid>
-      <description>À Houston, Latif, tueur à gages musulman et père de trois enfants, perd brutalement sa femme. Lorsque son nouveau-né refuse le lait maternisé, il se lance à la recherche d'Une nourrice, une démarche q</description>
-      <enclosure url="https://image.tmdb.org/t/p/w500/4KaPZSKnInnArErTTgy9Oy14leR.jpg" type="image/jpeg" length="0"/>
-      <media:thumbnail url="https://image.tmdb.org/t/p/w500/4KaPZSKnInnArErTTgy9Oy14leR.jpg"/>
-      <media:content url="https://image.tmdb.org/t/p/w500/4KaPZSKnInnArErTTgy9Oy14leR.jpg" medium="image"/>
+      <title>Wild Horse Nine</title>
+      <link>https://www.themoviedb.org/movie/891621</link>
+      <guid>https://www.themoviedb.org/movie/891621</guid>
+      <description>Peu avant le coup d'État chilien de 1973, deux agents de la CIA, Chris et Lee, sont envoyés de Santiago vers l'île de Pâques par leur supérieur, MJ. Au milieu des statues emblématiques de l'île, tandi</description>
+      <enclosure url="https://image.tmdb.org/t/p/w500/hnBtud9vLr9arsUW8nxrzIz2uA4.jpg" type="image/jpeg" length="0"/>
+      <media:thumbnail url="https://image.tmdb.org/t/p/w500/hnBtud9vLr9arsUW8nxrzIz2uA4.jpg"/>
+      <media:content url="https://image.tmdb.org/t/p/w500/hnBtud9vLr9arsUW8nxrzIz2uA4.jpg" medium="image"/>
     </item>
     <item>
       <title>Hunger Games : Lever de soleil sur la moisson</title>
       <link>https://www.themoviedb.org/movie/1300968</link>
       <guid>https://www.themoviedb.org/movie/1300968</guid>
       <description>Alors que le jour se lève sur les 50e Hunger Games annuels, la peur s'empare des districts de Panem. Cette année, en l'honneur du Quarter Quell, deux fois plus de tributs seront tirés au sort. Dans le</description>
-      <enclosure url="https://image.tmdb.org/t/p/w500/7w6v7FHdTbxuKqAPiMqKxEq8hro.jpg" type="image/jpeg" length="0"/>
-      <media:thumbnail url="https://image.tmdb.org/t/p/w500/7w6v7FHdTbxuKqAPiMqKxEq8hro.jpg"/>
-      <media:content url="https://image.tmdb.org/t/p/w500/7w6v7FHdTbxuKqAPiMqKxEq8hro.jpg" medium="image"/>
+      <enclosure url="https://image.tmdb.org/t/p/w500/6lwqxIhsKsiz6PM4tzzScn3ok1d.jpg" type="image/jpeg" length="0"/>
+      <media:thumbnail url="https://image.tmdb.org/t/p/w500/6lwqxIhsKsiz6PM4tzzScn3ok1d.jpg"/>
+      <media:content url="https://image.tmdb.org/t/p/w500/6lwqxIhsKsiz6PM4tzzScn3ok1d.jpg" medium="image"/>
     </item>
     <item>
       <title>ஜெயிலர் 2</title>
@@ -123,15 +114,6 @@
       <media:content url="https://image.tmdb.org/t/p/w500/upwdEyhhYZ7pT2hD535fr2MGfpx.jpg" medium="image"/>
     </item>
     <item>
-      <title>சீன்</title>
-      <link>https://www.themoviedb.org/movie/1402181</link>
-      <guid>https://www.themoviedb.org/movie/1402181</guid>
-      <description></description>
-      <enclosure url="https://image.tmdb.org/t/p/w500/RtLW0aQ8sPk5lWH5nzHQmpiBu4.jpg" type="image/jpeg" length="0"/>
-      <media:thumbnail url="https://image.tmdb.org/t/p/w500/RtLW0aQ8sPk5lWH5nzHQmpiBu4.jpg"/>
-      <media:content url="https://image.tmdb.org/t/p/w500/RtLW0aQ8sPk5lWH5nzHQmpiBu4.jpg" medium="image"/>
-    </item>
-    <item>
       <title>Wicker</title>
       <link>https://www.themoviedb.org/movie/1195803</link>
       <guid>https://www.themoviedb.org/movie/1195803</guid>
@@ -139,6 +121,24 @@
       <enclosure url="https://image.tmdb.org/t/p/w500/fjoHeK9kmoN46dUPGVpZA5rD27g.jpg" type="image/jpeg" length="0"/>
       <media:thumbnail url="https://image.tmdb.org/t/p/w500/fjoHeK9kmoN46dUPGVpZA5rD27g.jpg"/>
       <media:content url="https://image.tmdb.org/t/p/w500/fjoHeK9kmoN46dUPGVpZA5rD27g.jpg" medium="image"/>
+    </item>
+    <item>
+      <title>Your Mother Your Mother Your Mother</title>
+      <link>https://www.themoviedb.org/movie/1437396</link>
+      <guid>https://www.themoviedb.org/movie/1437396</guid>
+      <description>À Houston, Latif, tueur à gages musulman et père de trois enfants, perd brutalement sa femme. Lorsque son nouveau-né refuse le lait maternisé, il se lance à la recherche d'Une nourrice, une démarche q</description>
+      <enclosure url="https://image.tmdb.org/t/p/w500/4KaPZSKnInnArErTTgy9Oy14leR.jpg" type="image/jpeg" length="0"/>
+      <media:thumbnail url="https://image.tmdb.org/t/p/w500/4KaPZSKnInnArErTTgy9Oy14leR.jpg"/>
+      <media:content url="https://image.tmdb.org/t/p/w500/4KaPZSKnInnArErTTgy9Oy14leR.jpg" medium="image"/>
+    </item>
+    <item>
+      <title>சீன்</title>
+      <link>https://www.themoviedb.org/movie/1402181</link>
+      <guid>https://www.themoviedb.org/movie/1402181</guid>
+      <description></description>
+      <enclosure url="https://image.tmdb.org/t/p/w500/RtLW0aQ8sPk5lWH5nzHQmpiBu4.jpg" type="image/jpeg" length="0"/>
+      <media:thumbnail url="https://image.tmdb.org/t/p/w500/RtLW0aQ8sPk5lWH5nzHQmpiBu4.jpg"/>
+      <media:content url="https://image.tmdb.org/t/p/w500/RtLW0aQ8sPk5lWH5nzHQmpiBu4.jpg" medium="image"/>
     </item>
   </channel>
 </rss>
