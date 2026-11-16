@@ -4,7 +4,7 @@
     <title>Au cinéma en ce moment</title>
     <link>https://www.themoviedb.org/movie/now-playing</link>
     <description>Films à l'affiche en France</description>
-    <lastBuildDate>Sun, 15 Nov 2026 12:29:42 -0000</lastBuildDate>
+    <lastBuildDate>Mon, 16 Nov 2026 13:21:22 -0000</lastBuildDate>
     <item>
       <title>Malfaisante</title>
       <link>https://www.themoviedb.org/movie/1400837</link>
@@ -96,6 +96,15 @@
       <media:content url="https://image.tmdb.org/t/p/w500/hnBtud9vLr9arsUW8nxrzIz2uA4.jpg" medium="image"/>
     </item>
     <item>
+      <title>Comment braquer une banque</title>
+      <link>https://www.themoviedb.org/movie/1437511</link>
+      <guid>https://www.themoviedb.org/movie/1437511</guid>
+      <description>Une équipe de braqueurs filme ses hold-up en direct et devient viral. Mais leur célébrité grandissante attire l'attention d'un agent du FBI et d'une ingénieure informatique déterminés à les arrêter. A</description>
+      <enclosure url="https://image.tmdb.org/t/p/w500/uvTMQzEU3b4GJLVv2HD318rb1sB.jpg" type="image/jpeg" length="0"/>
+      <media:thumbnail url="https://image.tmdb.org/t/p/w500/uvTMQzEU3b4GJLVv2HD318rb1sB.jpg"/>
+      <media:content url="https://image.tmdb.org/t/p/w500/uvTMQzEU3b4GJLVv2HD318rb1sB.jpg" medium="image"/>
+    </item>
+    <item>
       <title>ஜெயிலர் 2</title>
       <link>https://www.themoviedb.org/movie/1234139</link>
       <guid>https://www.themoviedb.org/movie/1234139</guid>
@@ -114,13 +123,13 @@
       <media:content url="https://image.tmdb.org/t/p/w500/6lwqxIhsKsiz6PM4tzzScn3ok1d.jpg" medium="image"/>
     </item>
     <item>
-      <title>Comment braquer une banque</title>
-      <link>https://www.themoviedb.org/movie/1437511</link>
-      <guid>https://www.themoviedb.org/movie/1437511</guid>
-      <description>Une équipe de braqueurs filme ses hold-up en direct et devient viral. Mais leur célébrité grandissante attire l'attention d'un agent du FBI et d'une ingénieure informatique déterminés à les arrêter. A</description>
-      <enclosure url="https://image.tmdb.org/t/p/w500/uvTMQzEU3b4GJLVv2HD318rb1sB.jpg" type="image/jpeg" length="0"/>
-      <media:thumbnail url="https://image.tmdb.org/t/p/w500/uvTMQzEU3b4GJLVv2HD318rb1sB.jpg"/>
-      <media:content url="https://image.tmdb.org/t/p/w500/uvTMQzEU3b4GJLVv2HD318rb1sB.jpg" medium="image"/>
+      <title>Your Mother Your Mother Your Mother</title>
+      <link>https://www.themoviedb.org/movie/1437396</link>
+      <guid>https://www.themoviedb.org/movie/1437396</guid>
+      <description>À Houston, Latif, tueur à gages musulman et père de trois enfants, perd brutalement sa femme. Lorsque son nouveau-né refuse le lait maternisé, il se lance à la recherche d'Une nourrice, une démarche q</description>
+      <enclosure url="https://image.tmdb.org/t/p/w500/4KaPZSKnInnArErTTgy9Oy14leR.jpg" type="image/jpeg" length="0"/>
+      <media:thumbnail url="https://image.tmdb.org/t/p/w500/4KaPZSKnInnArErTTgy9Oy14leR.jpg"/>
+      <media:content url="https://image.tmdb.org/t/p/w500/4KaPZSKnInnArErTTgy9Oy14leR.jpg" medium="image"/>
     </item>
     <item>
       <title>Wicker</title>
@@ -130,15 +139,6 @@
       <enclosure url="https://image.tmdb.org/t/p/w500/fjoHeK9kmoN46dUPGVpZA5rD27g.jpg" type="image/jpeg" length="0"/>
       <media:thumbnail url="https://image.tmdb.org/t/p/w500/fjoHeK9kmoN46dUPGVpZA5rD27g.jpg"/>
       <media:content url="https://image.tmdb.org/t/p/w500/fjoHeK9kmoN46dUPGVpZA5rD27g.jpg" medium="image"/>
-    </item>
-    <item>
-      <title>Your Mother Your Mother Your Mother</title>
-      <link>https://www.themoviedb.org/movie/1437396</link>
-      <guid>https://www.themoviedb.org/movie/1437396</guid>
-      <description>À Houston, Latif, tueur à gages musulman et père de trois enfants, perd brutalement sa femme. Lorsque son nouveau-né refuse le lait maternisé, il se lance à la recherche d'Une nourrice, une démarche q</description>
-      <enclosure url="https://image.tmdb.org/t/p/w500/4KaPZSKnInnArErTTgy9Oy14leR.jpg" type="image/jpeg" length="0"/>
-      <media:thumbnail url="https://image.tmdb.org/t/p/w500/4KaPZSKnInnArErTTgy9Oy14leR.jpg"/>
-      <media:content url="https://image.tmdb.org/t/p/w500/4KaPZSKnInnArErTTgy9Oy14leR.jpg" medium="image"/>
     </item>
   </channel>
 </rss>
