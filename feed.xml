@@ -4,7 +4,7 @@
     <title>Au cinéma en ce moment</title>
     <link>https://www.themoviedb.org/movie/now-playing</link>
     <description>Films à l'affiche en France</description>
-    <lastBuildDate>Mon, 16 Nov 2026 13:21:22 -0000</lastBuildDate>
+    <lastBuildDate>Tue, 17 Nov 2026 14:06:49 -0000</lastBuildDate>
     <item>
       <title>Malfaisante</title>
       <link>https://www.themoviedb.org/movie/1400837</link>
@@ -33,6 +33,15 @@
       <media:content url="https://image.tmdb.org/t/p/w500/cZrs6whBv4JpPxsNJ2ZefhgUUEF.jpg" medium="image"/>
     </item>
     <item>
+      <title>Scrooge</title>
+      <link>https://www.themoviedb.org/movie/1567605</link>
+      <guid>https://www.themoviedb.org/movie/1567605</guid>
+      <description>Ebenezer Scrooge est un vieil homme avare, pingre et solitaire. Bien évidemment, il déteste et méprise Noël et tout ce qui engendre le bonheur. C'est alors qu'il reçoit la visite du fantôme d'un ancie</description>
+      <enclosure url="https://image.tmdb.org/t/p/w500/uxYPnpkSmG1iluoSB0fOtYK7BfM.jpg" type="image/jpeg" length="0"/>
+      <media:thumbnail url="https://image.tmdb.org/t/p/w500/uxYPnpkSmG1iluoSB0fOtYK7BfM.jpg"/>
+      <media:content url="https://image.tmdb.org/t/p/w500/uxYPnpkSmG1iluoSB0fOtYK7BfM.jpg" medium="image"/>
+    </item>
+    <item>
       <title>Ramayana : L'avènement d'une légende</title>
       <link>https://www.themoviedb.org/movie/656908</link>
       <guid>https://www.themoviedb.org/movie/656908</guid>
@@ -42,13 +51,13 @@
       <media:content url="https://image.tmdb.org/t/p/w500/sCqbbDIfLfO52FWjmuVOVZKkVyV.jpg" medium="image"/>
     </item>
     <item>
-      <title>Scrooge</title>
-      <link>https://www.themoviedb.org/movie/1567605</link>
-      <guid>https://www.themoviedb.org/movie/1567605</guid>
-      <description>Ebenezer Scrooge est un vieil homme avare, pingre et solitaire. Bien évidemment, il déteste et méprise Noël et tout ce qui engendre le bonheur. C'est alors qu'il reçoit la visite du fantôme d'un ancie</description>
-      <enclosure url="https://image.tmdb.org/t/p/w500/uxYPnpkSmG1iluoSB0fOtYK7BfM.jpg" type="image/jpeg" length="0"/>
-      <media:thumbnail url="https://image.tmdb.org/t/p/w500/uxYPnpkSmG1iluoSB0fOtYK7BfM.jpg"/>
-      <media:content url="https://image.tmdb.org/t/p/w500/uxYPnpkSmG1iluoSB0fOtYK7BfM.jpg" medium="image"/>
+      <title>Hunger Games : Lever de soleil sur la moisson</title>
+      <link>https://www.themoviedb.org/movie/1300968</link>
+      <guid>https://www.themoviedb.org/movie/1300968</guid>
+      <description>Alors que le jour se lève sur les 50e Hunger Games annuels, la peur s'empare des districts de Panem. Cette année, en l'honneur du Quarter Quell, deux fois plus de tributs seront tirés au sort. Dans le</description>
+      <enclosure url="https://image.tmdb.org/t/p/w500/6lwqxIhsKsiz6PM4tzzScn3ok1d.jpg" type="image/jpeg" length="0"/>
+      <media:thumbnail url="https://image.tmdb.org/t/p/w500/6lwqxIhsKsiz6PM4tzzScn3ok1d.jpg"/>
+      <media:content url="https://image.tmdb.org/t/p/w500/6lwqxIhsKsiz6PM4tzzScn3ok1d.jpg" medium="image"/>
     </item>
     <item>
       <title>Street Fighter</title>
@@ -69,15 +78,6 @@
       <media:content url="https://image.tmdb.org/t/p/w500/mDCR1frpUvGfIKksuM440VLb7X9.jpg" medium="image"/>
     </item>
     <item>
-      <title>Clayface</title>
-      <link>https://www.themoviedb.org/movie/1400940</link>
-      <guid>https://www.themoviedb.org/movie/1400940</guid>
-      <description>L'ascension fulgurante de Matt Hagen, de gamin des rues de Gotham à star hollywoodienne, est brutalement interrompue lorsqu'un baron du crime le laisse atrocement défiguré. Abandonné de tous et n'ayan</description>
-      <enclosure url="https://image.tmdb.org/t/p/w500/5RzUMLAYw2xHsd98UKcMC9s0ZQ.jpg" type="image/jpeg" length="0"/>
-      <media:thumbnail url="https://image.tmdb.org/t/p/w500/5RzUMLAYw2xHsd98UKcMC9s0ZQ.jpg"/>
-      <media:content url="https://image.tmdb.org/t/p/w500/5RzUMLAYw2xHsd98UKcMC9s0ZQ.jpg" medium="image"/>
-    </item>
-    <item>
       <title>L'île des souvenirs</title>
       <link>https://www.themoviedb.org/movie/1465063</link>
       <guid>https://www.themoviedb.org/movie/1465063</guid>
@@ -85,6 +85,15 @@
       <enclosure url="https://image.tmdb.org/t/p/w500/txvVTbY1cAsBe5tPX9c5m5SM3ml.jpg" type="image/jpeg" length="0"/>
       <media:thumbnail url="https://image.tmdb.org/t/p/w500/txvVTbY1cAsBe5tPX9c5m5SM3ml.jpg"/>
       <media:content url="https://image.tmdb.org/t/p/w500/txvVTbY1cAsBe5tPX9c5m5SM3ml.jpg" medium="image"/>
+    </item>
+    <item>
+      <title>ஜெயிலர் 2</title>
+      <link>https://www.themoviedb.org/movie/1234139</link>
+      <guid>https://www.themoviedb.org/movie/1234139</guid>
+      <description></description>
+      <enclosure url="https://image.tmdb.org/t/p/w500/upwdEyhhYZ7pT2hD535fr2MGfpx.jpg" type="image/jpeg" length="0"/>
+      <media:thumbnail url="https://image.tmdb.org/t/p/w500/upwdEyhhYZ7pT2hD535fr2MGfpx.jpg"/>
+      <media:content url="https://image.tmdb.org/t/p/w500/upwdEyhhYZ7pT2hD535fr2MGfpx.jpg" medium="image"/>
     </item>
     <item>
       <title>Wild Horse Nine</title>
@@ -105,31 +114,13 @@
       <media:content url="https://image.tmdb.org/t/p/w500/uvTMQzEU3b4GJLVv2HD318rb1sB.jpg" medium="image"/>
     </item>
     <item>
-      <title>ஜெயிலர் 2</title>
-      <link>https://www.themoviedb.org/movie/1234139</link>
-      <guid>https://www.themoviedb.org/movie/1234139</guid>
-      <description></description>
-      <enclosure url="https://image.tmdb.org/t/p/w500/upwdEyhhYZ7pT2hD535fr2MGfpx.jpg" type="image/jpeg" length="0"/>
-      <media:thumbnail url="https://image.tmdb.org/t/p/w500/upwdEyhhYZ7pT2hD535fr2MGfpx.jpg"/>
-      <media:content url="https://image.tmdb.org/t/p/w500/upwdEyhhYZ7pT2hD535fr2MGfpx.jpg" medium="image"/>
-    </item>
-    <item>
-      <title>Hunger Games : Lever de soleil sur la moisson</title>
-      <link>https://www.themoviedb.org/movie/1300968</link>
-      <guid>https://www.themoviedb.org/movie/1300968</guid>
-      <description>Alors que le jour se lève sur les 50e Hunger Games annuels, la peur s'empare des districts de Panem. Cette année, en l'honneur du Quarter Quell, deux fois plus de tributs seront tirés au sort. Dans le</description>
-      <enclosure url="https://image.tmdb.org/t/p/w500/6lwqxIhsKsiz6PM4tzzScn3ok1d.jpg" type="image/jpeg" length="0"/>
-      <media:thumbnail url="https://image.tmdb.org/t/p/w500/6lwqxIhsKsiz6PM4tzzScn3ok1d.jpg"/>
-      <media:content url="https://image.tmdb.org/t/p/w500/6lwqxIhsKsiz6PM4tzzScn3ok1d.jpg" medium="image"/>
-    </item>
-    <item>
-      <title>Your Mother Your Mother Your Mother</title>
-      <link>https://www.themoviedb.org/movie/1437396</link>
-      <guid>https://www.themoviedb.org/movie/1437396</guid>
-      <description>À Houston, Latif, tueur à gages musulman et père de trois enfants, perd brutalement sa femme. Lorsque son nouveau-né refuse le lait maternisé, il se lance à la recherche d'Une nourrice, une démarche q</description>
-      <enclosure url="https://image.tmdb.org/t/p/w500/4KaPZSKnInnArErTTgy9Oy14leR.jpg" type="image/jpeg" length="0"/>
-      <media:thumbnail url="https://image.tmdb.org/t/p/w500/4KaPZSKnInnArErTTgy9Oy14leR.jpg"/>
-      <media:content url="https://image.tmdb.org/t/p/w500/4KaPZSKnInnArErTTgy9Oy14leR.jpg" medium="image"/>
+      <title>Clayface</title>
+      <link>https://www.themoviedb.org/movie/1400940</link>
+      <guid>https://www.themoviedb.org/movie/1400940</guid>
+      <description>L'ascension fulgurante de Matt Hagen, de gamin des rues de Gotham à star hollywoodienne, est brutalement interrompue lorsqu'un baron du crime le laisse atrocement défiguré. Abandonné de tous et n'ayan</description>
+      <enclosure url="https://image.tmdb.org/t/p/w500/5RzUMLAYw2xHsd98UKcMC9s0ZQ.jpg" type="image/jpeg" length="0"/>
+      <media:thumbnail url="https://image.tmdb.org/t/p/w500/5RzUMLAYw2xHsd98UKcMC9s0ZQ.jpg"/>
+      <media:content url="https://image.tmdb.org/t/p/w500/5RzUMLAYw2xHsd98UKcMC9s0ZQ.jpg" medium="image"/>
     </item>
     <item>
       <title>Wicker</title>
@@ -139,6 +130,15 @@
       <enclosure url="https://image.tmdb.org/t/p/w500/fjoHeK9kmoN46dUPGVpZA5rD27g.jpg" type="image/jpeg" length="0"/>
       <media:thumbnail url="https://image.tmdb.org/t/p/w500/fjoHeK9kmoN46dUPGVpZA5rD27g.jpg"/>
       <media:content url="https://image.tmdb.org/t/p/w500/fjoHeK9kmoN46dUPGVpZA5rD27g.jpg" medium="image"/>
+    </item>
+    <item>
+      <title>Your Mother Your Mother Your Mother</title>
+      <link>https://www.themoviedb.org/movie/1437396</link>
+      <guid>https://www.themoviedb.org/movie/1437396</guid>
+      <description>À Houston, Latif, tueur à gages musulman et père de trois enfants, perd brutalement sa femme. Lorsque son nouveau-né refuse le lait maternisé, il se lance à la recherche d'Une nourrice, une démarche q</description>
+      <enclosure url="https://image.tmdb.org/t/p/w500/4KaPZSKnInnArErTTgy9Oy14leR.jpg" type="image/jpeg" length="0"/>
+      <media:thumbnail url="https://image.tmdb.org/t/p/w500/4KaPZSKnInnArErTTgy9Oy14leR.jpg"/>
+      <media:content url="https://image.tmdb.org/t/p/w500/4KaPZSKnInnArErTTgy9Oy14leR.jpg" medium="image"/>
     </item>
   </channel>
 </rss>
