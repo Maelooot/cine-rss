@@ -4,7 +4,7 @@
     <title>Au cinéma en ce moment</title>
     <link>https://www.themoviedb.org/movie/now-playing</link>
     <description>Films à l'affiche en France</description>
-    <lastBuildDate>Fri, 20 Nov 2026 13:50:20 -0000</lastBuildDate>
+    <lastBuildDate>Sat, 21 Nov 2026 13:14:22 -0000</lastBuildDate>
     <item>
       <title>Malfaisante</title>
       <link>https://www.themoviedb.org/movie/1400837</link>
@@ -15,15 +15,6 @@
       <media:content url="https://image.tmdb.org/t/p/w500/a6AztQlJvKy2tEOc10M7WXIF5gX.jpg" medium="image"/>
     </item>
     <item>
-      <title>Hope</title>
-      <link>https://www.themoviedb.org/movie/1058424</link>
-      <guid>https://www.themoviedb.org/movie/1058424</guid>
-      <description>Le chef de la police de Hope Harbor, un petit village situé près de la zone coréenne démilitarisée, enquêtee sur le cas d'une vache morte portant des blessures béantes. Des chasseurs affirment qu'un t</description>
-      <enclosure url="https://image.tmdb.org/t/p/w500/tGdFDoA9qyt0t6Qr9MFnOl8Z2Jz.jpg" type="image/jpeg" length="0"/>
-      <media:thumbnail url="https://image.tmdb.org/t/p/w500/tGdFDoA9qyt0t6Qr9MFnOl8Z2Jz.jpg"/>
-      <media:content url="https://image.tmdb.org/t/p/w500/tGdFDoA9qyt0t6Qr9MFnOl8Z2Jz.jpg" medium="image"/>
-    </item>
-    <item>
       <title>Hunger Games : Lever de soleil sur la moisson</title>
       <link>https://www.themoviedb.org/movie/1300968</link>
       <guid>https://www.themoviedb.org/movie/1300968</guid>
@@ -31,6 +22,15 @@
       <enclosure url="https://image.tmdb.org/t/p/w500/6lwqxIhsKsiz6PM4tzzScn3ok1d.jpg" type="image/jpeg" length="0"/>
       <media:thumbnail url="https://image.tmdb.org/t/p/w500/6lwqxIhsKsiz6PM4tzzScn3ok1d.jpg"/>
       <media:content url="https://image.tmdb.org/t/p/w500/6lwqxIhsKsiz6PM4tzzScn3ok1d.jpg" medium="image"/>
+    </item>
+    <item>
+      <title>Hope</title>
+      <link>https://www.themoviedb.org/movie/1058424</link>
+      <guid>https://www.themoviedb.org/movie/1058424</guid>
+      <description>Le chef de la police de Hope Harbor, un petit village situé près de la zone coréenne démilitarisée, enquêtee sur le cas d'une vache morte portant des blessures béantes. Des chasseurs affirment qu'un t</description>
+      <enclosure url="https://image.tmdb.org/t/p/w500/tGdFDoA9qyt0t6Qr9MFnOl8Z2Jz.jpg" type="image/jpeg" length="0"/>
+      <media:thumbnail url="https://image.tmdb.org/t/p/w500/tGdFDoA9qyt0t6Qr9MFnOl8Z2Jz.jpg"/>
+      <media:content url="https://image.tmdb.org/t/p/w500/tGdFDoA9qyt0t6Qr9MFnOl8Z2Jz.jpg" medium="image"/>
     </item>
     <item>
       <title>Ramayana : L'avènement d'une légende</title>
@@ -69,15 +69,6 @@
       <media:content url="https://image.tmdb.org/t/p/w500/k53HHxQ4rQG0dME6nsofii3QNS7.jpg" medium="image"/>
     </item>
     <item>
-      <title>Comment braquer une banque</title>
-      <link>https://www.themoviedb.org/movie/1437511</link>
-      <guid>https://www.themoviedb.org/movie/1437511</guid>
-      <description>Une équipe de braqueurs filme ses hold-up en direct et devient viral. Mais leur célébrité grandissante attire l'attention d'un agent du FBI et d'une ingénieure informatique déterminés à les arrêter. A</description>
-      <enclosure url="https://image.tmdb.org/t/p/w500/uvTMQzEU3b4GJLVv2HD318rb1sB.jpg" type="image/jpeg" length="0"/>
-      <media:thumbnail url="https://image.tmdb.org/t/p/w500/uvTMQzEU3b4GJLVv2HD318rb1sB.jpg"/>
-      <media:content url="https://image.tmdb.org/t/p/w500/uvTMQzEU3b4GJLVv2HD318rb1sB.jpg" medium="image"/>
-    </item>
-    <item>
       <title>Clayface</title>
       <link>https://www.themoviedb.org/movie/1400940</link>
       <guid>https://www.themoviedb.org/movie/1400940</guid>
@@ -85,6 +76,15 @@
       <enclosure url="https://image.tmdb.org/t/p/w500/5RzUMLAYw2xHsd98UKcMC9s0ZQ.jpg" type="image/jpeg" length="0"/>
       <media:thumbnail url="https://image.tmdb.org/t/p/w500/5RzUMLAYw2xHsd98UKcMC9s0ZQ.jpg"/>
       <media:content url="https://image.tmdb.org/t/p/w500/5RzUMLAYw2xHsd98UKcMC9s0ZQ.jpg" medium="image"/>
+    </item>
+    <item>
+      <title>Comment braquer une banque</title>
+      <link>https://www.themoviedb.org/movie/1437511</link>
+      <guid>https://www.themoviedb.org/movie/1437511</guid>
+      <description>Une équipe de braqueurs filme ses hold-up en direct et devient viral. Mais leur célébrité grandissante attire l'attention d'un agent du FBI et d'une ingénieure informatique déterminés à les arrêter. A</description>
+      <enclosure url="https://image.tmdb.org/t/p/w500/uvTMQzEU3b4GJLVv2HD318rb1sB.jpg" type="image/jpeg" length="0"/>
+      <media:thumbnail url="https://image.tmdb.org/t/p/w500/uvTMQzEU3b4GJLVv2HD318rb1sB.jpg"/>
+      <media:content url="https://image.tmdb.org/t/p/w500/uvTMQzEU3b4GJLVv2HD318rb1sB.jpg" medium="image"/>
     </item>
     <item>
       <title>Wild Horse Nine</title>
@@ -114,13 +114,13 @@
       <media:content url="https://image.tmdb.org/t/p/w500/txvVTbY1cAsBe5tPX9c5m5SM3ml.jpg" medium="image"/>
     </item>
     <item>
-      <title>ஜெயிலர் 2</title>
-      <link>https://www.themoviedb.org/movie/1234139</link>
-      <guid>https://www.themoviedb.org/movie/1234139</guid>
-      <description></description>
-      <enclosure url="https://image.tmdb.org/t/p/w500/upwdEyhhYZ7pT2hD535fr2MGfpx.jpg" type="image/jpeg" length="0"/>
-      <media:thumbnail url="https://image.tmdb.org/t/p/w500/upwdEyhhYZ7pT2hD535fr2MGfpx.jpg"/>
-      <media:content url="https://image.tmdb.org/t/p/w500/upwdEyhhYZ7pT2hD535fr2MGfpx.jpg" medium="image"/>
+      <title>Englouti</title>
+      <link>https://www.themoviedb.org/movie/1255833</link>
+      <guid>https://www.themoviedb.org/movie/1255833</guid>
+      <description>Un plongeur sous-marin est à la recherche des restes de son père décédé, qui s'est fait avaler par un cachalot. Il ne lui reste plus qu'une heure avant que l'oxygène ne vienne à lui manquer.</description>
+      <enclosure url="https://image.tmdb.org/t/p/w500/qLt9F35AdGKDXPSJtqH5DERoigI.jpg" type="image/jpeg" length="0"/>
+      <media:thumbnail url="https://image.tmdb.org/t/p/w500/qLt9F35AdGKDXPSJtqH5DERoigI.jpg"/>
+      <media:content url="https://image.tmdb.org/t/p/w500/qLt9F35AdGKDXPSJtqH5DERoigI.jpg" medium="image"/>
     </item>
     <item>
       <title>Wicker</title>
@@ -136,9 +136,9 @@
       <link>https://www.themoviedb.org/movie/1437396</link>
       <guid>https://www.themoviedb.org/movie/1437396</guid>
       <description>À Houston, Latif, tueur à gages musulman et père de trois enfants, perd brutalement sa femme. Lorsque son nouveau-né refuse le lait maternisé, il se lance à la recherche d'Une nourrice, une démarche q</description>
-      <enclosure url="https://image.tmdb.org/t/p/w500/4KaPZSKnInnArErTTgy9Oy14leR.jpg" type="image/jpeg" length="0"/>
-      <media:thumbnail url="https://image.tmdb.org/t/p/w500/4KaPZSKnInnArErTTgy9Oy14leR.jpg"/>
-      <media:content url="https://image.tmdb.org/t/p/w500/4KaPZSKnInnArErTTgy9Oy14leR.jpg" medium="image"/>
+      <enclosure url="https://image.tmdb.org/t/p/w500/58g3PjU11nBszOWc836lC8t2Mzi.jpg" type="image/jpeg" length="0"/>
+      <media:thumbnail url="https://image.tmdb.org/t/p/w500/58g3PjU11nBszOWc836lC8t2Mzi.jpg"/>
+      <media:content url="https://image.tmdb.org/t/p/w500/58g3PjU11nBszOWc836lC8t2Mzi.jpg" medium="image"/>
     </item>
   </channel>
 </rss>
