@@ -4,16 +4,7 @@
     <title>Au cinéma en ce moment</title>
     <link>https://www.themoviedb.org/movie/now-playing</link>
     <description>Films à l'affiche en France</description>
-    <lastBuildDate>Sat, 21 Nov 2026 13:14:22 -0000</lastBuildDate>
-    <item>
-      <title>Malfaisante</title>
-      <link>https://www.themoviedb.org/movie/1400837</link>
-      <guid>https://www.themoviedb.org/movie/1400837</guid>
-      <description>Une jeune fille, Bela, développe dans son foyer une relation avec une entité troublante qui ressemble étrangement à sa mère. Son « autre maman » n'est pas que le fruit de son imagination. Cette entité</description>
-      <enclosure url="https://image.tmdb.org/t/p/w500/a6AztQlJvKy2tEOc10M7WXIF5gX.jpg" type="image/jpeg" length="0"/>
-      <media:thumbnail url="https://image.tmdb.org/t/p/w500/a6AztQlJvKy2tEOc10M7WXIF5gX.jpg"/>
-      <media:content url="https://image.tmdb.org/t/p/w500/a6AztQlJvKy2tEOc10M7WXIF5gX.jpg" medium="image"/>
-    </item>
+    <lastBuildDate>Sun, 22 Nov 2026 13:04:08 -0000</lastBuildDate>
     <item>
       <title>Hunger Games : Lever de soleil sur la moisson</title>
       <link>https://www.themoviedb.org/movie/1300968</link>
@@ -22,6 +13,15 @@
       <enclosure url="https://image.tmdb.org/t/p/w500/6lwqxIhsKsiz6PM4tzzScn3ok1d.jpg" type="image/jpeg" length="0"/>
       <media:thumbnail url="https://image.tmdb.org/t/p/w500/6lwqxIhsKsiz6PM4tzzScn3ok1d.jpg"/>
       <media:content url="https://image.tmdb.org/t/p/w500/6lwqxIhsKsiz6PM4tzzScn3ok1d.jpg" medium="image"/>
+    </item>
+    <item>
+      <title>Malfaisante</title>
+      <link>https://www.themoviedb.org/movie/1400837</link>
+      <guid>https://www.themoviedb.org/movie/1400837</guid>
+      <description>Une jeune fille, Bela, développe dans son foyer une relation avec une entité troublante qui ressemble étrangement à sa mère. Son « autre maman » n'est pas que le fruit de son imagination. Cette entité</description>
+      <enclosure url="https://image.tmdb.org/t/p/w500/a6AztQlJvKy2tEOc10M7WXIF5gX.jpg" type="image/jpeg" length="0"/>
+      <media:thumbnail url="https://image.tmdb.org/t/p/w500/a6AztQlJvKy2tEOc10M7WXIF5gX.jpg"/>
+      <media:content url="https://image.tmdb.org/t/p/w500/a6AztQlJvKy2tEOc10M7WXIF5gX.jpg" medium="image"/>
     </item>
     <item>
       <title>Hope</title>
@@ -55,9 +55,18 @@
       <link>https://www.themoviedb.org/movie/1567605</link>
       <guid>https://www.themoviedb.org/movie/1567605</guid>
       <description>Ebenezer Scrooge est un vieil homme avare, pingre et solitaire. Bien évidemment, il déteste et méprise Noël et tout ce qui engendre le bonheur. C'est alors qu'il reçoit la visite du fantôme d'un ancie</description>
-      <enclosure url="https://image.tmdb.org/t/p/w500/uxYPnpkSmG1iluoSB0fOtYK7BfM.jpg" type="image/jpeg" length="0"/>
-      <media:thumbnail url="https://image.tmdb.org/t/p/w500/uxYPnpkSmG1iluoSB0fOtYK7BfM.jpg"/>
-      <media:content url="https://image.tmdb.org/t/p/w500/uxYPnpkSmG1iluoSB0fOtYK7BfM.jpg" medium="image"/>
+      <enclosure url="https://image.tmdb.org/t/p/w500/9RCnWkVOevfAVuSkYkQOg1k8QvO.jpg" type="image/jpeg" length="0"/>
+      <media:thumbnail url="https://image.tmdb.org/t/p/w500/9RCnWkVOevfAVuSkYkQOg1k8QvO.jpg"/>
+      <media:content url="https://image.tmdb.org/t/p/w500/9RCnWkVOevfAVuSkYkQOg1k8QvO.jpg" medium="image"/>
+    </item>
+    <item>
+      <title>Obsession</title>
+      <link>https://www.themoviedb.org/movie/1339713</link>
+      <guid>https://www.themoviedb.org/movie/1339713</guid>
+      <description>Et si vous pouviez réaliser votre rêve le plus fou ? Un jeune introverti met la main sur un objet magique capable d’exaucer n’importe quel souhait. Son crush de toujours tombe alors raide dingue de lu</description>
+      <enclosure url="https://image.tmdb.org/t/p/w500/mDCR1frpUvGfIKksuM440VLb7X9.jpg" type="image/jpeg" length="0"/>
+      <media:thumbnail url="https://image.tmdb.org/t/p/w500/mDCR1frpUvGfIKksuM440VLb7X9.jpg"/>
+      <media:content url="https://image.tmdb.org/t/p/w500/mDCR1frpUvGfIKksuM440VLb7X9.jpg" medium="image"/>
     </item>
     <item>
       <title>Street Fighter</title>
@@ -78,6 +87,15 @@
       <media:content url="https://image.tmdb.org/t/p/w500/5RzUMLAYw2xHsd98UKcMC9s0ZQ.jpg" medium="image"/>
     </item>
     <item>
+      <title>L'île des souvenirs</title>
+      <link>https://www.themoviedb.org/movie/1465063</link>
+      <guid>https://www.themoviedb.org/movie/1465063</guid>
+      <description>Pendant qu'elles passent une dernière soirée ensemble avant de s'engager sur des voies différentes, Jo et Raissa, amies depuis toujours, trouvent un portail mystérieux qui les transporte sur Nakali, u</description>
+      <enclosure url="https://image.tmdb.org/t/p/w500/txvVTbY1cAsBe5tPX9c5m5SM3ml.jpg" type="image/jpeg" length="0"/>
+      <media:thumbnail url="https://image.tmdb.org/t/p/w500/txvVTbY1cAsBe5tPX9c5m5SM3ml.jpg"/>
+      <media:content url="https://image.tmdb.org/t/p/w500/txvVTbY1cAsBe5tPX9c5m5SM3ml.jpg" medium="image"/>
+    </item>
+    <item>
       <title>Comment braquer une banque</title>
       <link>https://www.themoviedb.org/movie/1437511</link>
       <guid>https://www.themoviedb.org/movie/1437511</guid>
@@ -96,22 +114,13 @@
       <media:content url="https://image.tmdb.org/t/p/w500/hnBtud9vLr9arsUW8nxrzIz2uA4.jpg" medium="image"/>
     </item>
     <item>
-      <title>Obsession</title>
-      <link>https://www.themoviedb.org/movie/1339713</link>
-      <guid>https://www.themoviedb.org/movie/1339713</guid>
-      <description>Et si vous pouviez réaliser votre rêve le plus fou ? Un jeune introverti met la main sur un objet magique capable d’exaucer n’importe quel souhait. Son crush de toujours tombe alors raide dingue de lu</description>
-      <enclosure url="https://image.tmdb.org/t/p/w500/mDCR1frpUvGfIKksuM440VLb7X9.jpg" type="image/jpeg" length="0"/>
-      <media:thumbnail url="https://image.tmdb.org/t/p/w500/mDCR1frpUvGfIKksuM440VLb7X9.jpg"/>
-      <media:content url="https://image.tmdb.org/t/p/w500/mDCR1frpUvGfIKksuM440VLb7X9.jpg" medium="image"/>
-    </item>
-    <item>
-      <title>L'île des souvenirs</title>
-      <link>https://www.themoviedb.org/movie/1465063</link>
-      <guid>https://www.themoviedb.org/movie/1465063</guid>
-      <description>Pendant qu'elles passent une dernière soirée ensemble avant de s'engager sur des voies différentes, Jo et Raissa, amies depuis toujours, trouvent un portail mystérieux qui les transporte sur Nakali, u</description>
-      <enclosure url="https://image.tmdb.org/t/p/w500/txvVTbY1cAsBe5tPX9c5m5SM3ml.jpg" type="image/jpeg" length="0"/>
-      <media:thumbnail url="https://image.tmdb.org/t/p/w500/txvVTbY1cAsBe5tPX9c5m5SM3ml.jpg"/>
-      <media:content url="https://image.tmdb.org/t/p/w500/txvVTbY1cAsBe5tPX9c5m5SM3ml.jpg" medium="image"/>
+      <title>ஜெயிலர் 2</title>
+      <link>https://www.themoviedb.org/movie/1234139</link>
+      <guid>https://www.themoviedb.org/movie/1234139</guid>
+      <description></description>
+      <enclosure url="https://image.tmdb.org/t/p/w500/upwdEyhhYZ7pT2hD535fr2MGfpx.jpg" type="image/jpeg" length="0"/>
+      <media:thumbnail url="https://image.tmdb.org/t/p/w500/upwdEyhhYZ7pT2hD535fr2MGfpx.jpg"/>
+      <media:content url="https://image.tmdb.org/t/p/w500/upwdEyhhYZ7pT2hD535fr2MGfpx.jpg" medium="image"/>
     </item>
     <item>
       <title>Englouti</title>
@@ -130,15 +139,6 @@
       <enclosure url="https://image.tmdb.org/t/p/w500/fjoHeK9kmoN46dUPGVpZA5rD27g.jpg" type="image/jpeg" length="0"/>
       <media:thumbnail url="https://image.tmdb.org/t/p/w500/fjoHeK9kmoN46dUPGVpZA5rD27g.jpg"/>
       <media:content url="https://image.tmdb.org/t/p/w500/fjoHeK9kmoN46dUPGVpZA5rD27g.jpg" medium="image"/>
-    </item>
-    <item>
-      <title>Your Mother Your Mother Your Mother</title>
-      <link>https://www.themoviedb.org/movie/1437396</link>
-      <guid>https://www.themoviedb.org/movie/1437396</guid>
-      <description>À Houston, Latif, tueur à gages musulman et père de trois enfants, perd brutalement sa femme. Lorsque son nouveau-né refuse le lait maternisé, il se lance à la recherche d'Une nourrice, une démarche q</description>
-      <enclosure url="https://image.tmdb.org/t/p/w500/58g3PjU11nBszOWc836lC8t2Mzi.jpg" type="image/jpeg" length="0"/>
-      <media:thumbnail url="https://image.tmdb.org/t/p/w500/58g3PjU11nBszOWc836lC8t2Mzi.jpg"/>
-      <media:content url="https://image.tmdb.org/t/p/w500/58g3PjU11nBszOWc836lC8t2Mzi.jpg" medium="image"/>
     </item>
   </channel>
 </rss>
