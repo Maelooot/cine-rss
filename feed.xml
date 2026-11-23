@@ -4,15 +4,15 @@
     <title>Au cinéma en ce moment</title>
     <link>https://www.themoviedb.org/movie/now-playing</link>
     <description>Films à l'affiche en France</description>
-    <lastBuildDate>Sun, 22 Nov 2026 13:04:08 -0000</lastBuildDate>
+    <lastBuildDate>Mon, 23 Nov 2026 15:40:59 -0000</lastBuildDate>
     <item>
       <title>Hunger Games : Lever de soleil sur la moisson</title>
       <link>https://www.themoviedb.org/movie/1300968</link>
       <guid>https://www.themoviedb.org/movie/1300968</guid>
       <description>Alors que le jour se lève sur les 50e Hunger Games annuels, la peur s'empare des districts de Panem. Cette année, en l'honneur du Quarter Quell, deux fois plus de tributs seront tirés au sort. Dans le</description>
-      <enclosure url="https://image.tmdb.org/t/p/w500/6lwqxIhsKsiz6PM4tzzScn3ok1d.jpg" type="image/jpeg" length="0"/>
-      <media:thumbnail url="https://image.tmdb.org/t/p/w500/6lwqxIhsKsiz6PM4tzzScn3ok1d.jpg"/>
-      <media:content url="https://image.tmdb.org/t/p/w500/6lwqxIhsKsiz6PM4tzzScn3ok1d.jpg" medium="image"/>
+      <enclosure url="https://image.tmdb.org/t/p/w500/2crlvf4VsSQORysk1A8o2jBUduI.jpg" type="image/jpeg" length="0"/>
+      <media:thumbnail url="https://image.tmdb.org/t/p/w500/2crlvf4VsSQORysk1A8o2jBUduI.jpg"/>
+      <media:content url="https://image.tmdb.org/t/p/w500/2crlvf4VsSQORysk1A8o2jBUduI.jpg" medium="image"/>
     </item>
     <item>
       <title>Malfaisante</title>
