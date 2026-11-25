@@ -4,7 +4,7 @@
     <title>Au cinéma en ce moment</title>
     <link>https://www.themoviedb.org/movie/now-playing</link>
     <description>Films à l'affiche en France</description>
-    <lastBuildDate>Tue, 24 Nov 2026 15:31:36 -0000</lastBuildDate>
+    <lastBuildDate>Wed, 25 Nov 2026 15:18:08 -0000</lastBuildDate>
     <item>
       <title>Hunger Games : Lever de soleil sur la moisson</title>
       <link>https://www.themoviedb.org/movie/1300968</link>
@@ -13,15 +13,6 @@
       <enclosure url="https://image.tmdb.org/t/p/w500/2crlvf4VsSQORysk1A8o2jBUduI.jpg" type="image/jpeg" length="0"/>
       <media:thumbnail url="https://image.tmdb.org/t/p/w500/2crlvf4VsSQORysk1A8o2jBUduI.jpg"/>
       <media:content url="https://image.tmdb.org/t/p/w500/2crlvf4VsSQORysk1A8o2jBUduI.jpg" medium="image"/>
-    </item>
-    <item>
-      <title>Malfaisante</title>
-      <link>https://www.themoviedb.org/movie/1400837</link>
-      <guid>https://www.themoviedb.org/movie/1400837</guid>
-      <description>Une jeune fille, Bela, développe dans son foyer une relation avec une entité troublante qui ressemble étrangement à sa mère. Son « autre maman » n'est pas que le fruit de son imagination. Cette entité</description>
-      <enclosure url="https://image.tmdb.org/t/p/w500/a6AztQlJvKy2tEOc10M7WXIF5gX.jpg" type="image/jpeg" length="0"/>
-      <media:thumbnail url="https://image.tmdb.org/t/p/w500/a6AztQlJvKy2tEOc10M7WXIF5gX.jpg"/>
-      <media:content url="https://image.tmdb.org/t/p/w500/a6AztQlJvKy2tEOc10M7WXIF5gX.jpg" medium="image"/>
     </item>
     <item>
       <title>Hope</title>
@@ -51,6 +42,15 @@
       <media:content url="https://image.tmdb.org/t/p/w500/cZrs6whBv4JpPxsNJ2ZefhgUUEF.jpg" medium="image"/>
     </item>
     <item>
+      <title>You Can See Everything</title>
+      <link>https://www.themoviedb.org/movie/1765072</link>
+      <guid>https://www.themoviedb.org/movie/1765072</guid>
+      <description>Trente-quatre jours avant son incarcération, Elizabeth Holmes, ancienne figure de la Silicon Valley et fondatrice déchue de Theranos, condamnée à plus de onze ans de prison pour avoir escroqué ses inv</description>
+      <enclosure url="https://image.tmdb.org/t/p/w500/hzRa2W9PIZkAwuijlsSMbte0bfq.jpg" type="image/jpeg" length="0"/>
+      <media:thumbnail url="https://image.tmdb.org/t/p/w500/hzRa2W9PIZkAwuijlsSMbte0bfq.jpg"/>
+      <media:content url="https://image.tmdb.org/t/p/w500/hzRa2W9PIZkAwuijlsSMbte0bfq.jpg" medium="image"/>
+    </item>
+    <item>
       <title>Scrooge</title>
       <link>https://www.themoviedb.org/movie/1567605</link>
       <guid>https://www.themoviedb.org/movie/1567605</guid>
@@ -69,6 +69,15 @@
       <media:content url="https://image.tmdb.org/t/p/w500/mDCR1frpUvGfIKksuM440VLb7X9.jpg" medium="image"/>
     </item>
     <item>
+      <title>Wicker</title>
+      <link>https://www.themoviedb.org/movie/1195803</link>
+      <guid>https://www.themoviedb.org/movie/1195803</guid>
+      <description>Mise au ban de son village, une pêcheuse solitaire commande au vannier local un mari en osier. Cet époux improbable se révèle doté d’une sensibilité et de talents qui dépassent toutes ses attentes. À </description>
+      <enclosure url="https://image.tmdb.org/t/p/w500/fjoHeK9kmoN46dUPGVpZA5rD27g.jpg" type="image/jpeg" length="0"/>
+      <media:thumbnail url="https://image.tmdb.org/t/p/w500/fjoHeK9kmoN46dUPGVpZA5rD27g.jpg"/>
+      <media:content url="https://image.tmdb.org/t/p/w500/fjoHeK9kmoN46dUPGVpZA5rD27g.jpg" medium="image"/>
+    </item>
+    <item>
       <title>L'île des souvenirs</title>
       <link>https://www.themoviedb.org/movie/1465063</link>
       <guid>https://www.themoviedb.org/movie/1465063</guid>
@@ -76,24 +85,6 @@
       <enclosure url="https://image.tmdb.org/t/p/w500/txvVTbY1cAsBe5tPX9c5m5SM3ml.jpg" type="image/jpeg" length="0"/>
       <media:thumbnail url="https://image.tmdb.org/t/p/w500/txvVTbY1cAsBe5tPX9c5m5SM3ml.jpg"/>
       <media:content url="https://image.tmdb.org/t/p/w500/txvVTbY1cAsBe5tPX9c5m5SM3ml.jpg" medium="image"/>
-    </item>
-    <item>
-      <title>Street Fighter</title>
-      <link>https://www.themoviedb.org/movie/1153576</link>
-      <guid>https://www.themoviedb.org/movie/1153576</guid>
-      <description>En 1993, Ryu et Ken Masters, deux Street Fighters autrefois inséparables, sont replongés dans l’arène lorsque la mystérieuse Chun-Li les recrute pour le prochain World Warrior Tournament : un affronte</description>
-      <enclosure url="https://image.tmdb.org/t/p/w500/k53HHxQ4rQG0dME6nsofii3QNS7.jpg" type="image/jpeg" length="0"/>
-      <media:thumbnail url="https://image.tmdb.org/t/p/w500/k53HHxQ4rQG0dME6nsofii3QNS7.jpg"/>
-      <media:content url="https://image.tmdb.org/t/p/w500/k53HHxQ4rQG0dME6nsofii3QNS7.jpg" medium="image"/>
-    </item>
-    <item>
-      <title>Clayface</title>
-      <link>https://www.themoviedb.org/movie/1400940</link>
-      <guid>https://www.themoviedb.org/movie/1400940</guid>
-      <description>L'ascension fulgurante de Matt Hagen, de gamin des rues de Gotham à star hollywoodienne, est brutalement interrompue lorsqu'un baron du crime le laisse atrocement défiguré. Abandonné de tous et n'ayan</description>
-      <enclosure url="https://image.tmdb.org/t/p/w500/5RzUMLAYw2xHsd98UKcMC9s0ZQ.jpg" type="image/jpeg" length="0"/>
-      <media:thumbnail url="https://image.tmdb.org/t/p/w500/5RzUMLAYw2xHsd98UKcMC9s0ZQ.jpg"/>
-      <media:content url="https://image.tmdb.org/t/p/w500/5RzUMLAYw2xHsd98UKcMC9s0ZQ.jpg" medium="image"/>
     </item>
     <item>
       <title>Billie, à la croisée des mondes</title>
@@ -114,6 +105,24 @@
       <media:content url="https://image.tmdb.org/t/p/w500/uvTMQzEU3b4GJLVv2HD318rb1sB.jpg" medium="image"/>
     </item>
     <item>
+      <title>Mon beau-père, ma belle-fille et moi</title>
+      <link>https://www.themoviedb.org/movie/1400336</link>
+      <guid>https://www.themoviedb.org/movie/1400336</guid>
+      <description>Henry Focker, fils de Greg et Pam, fait face au chaos familial lorsqu'il décide d'épouser une femme têtue qui semble totalement incompatible avec lui.</description>
+      <enclosure url="https://image.tmdb.org/t/p/w500/tAJeM7WTjgkvGeCH8zjIA7kFlHW.jpg" type="image/jpeg" length="0"/>
+      <media:thumbnail url="https://image.tmdb.org/t/p/w500/tAJeM7WTjgkvGeCH8zjIA7kFlHW.jpg"/>
+      <media:content url="https://image.tmdb.org/t/p/w500/tAJeM7WTjgkvGeCH8zjIA7kFlHW.jpg" medium="image"/>
+    </item>
+    <item>
+      <title>Clayface</title>
+      <link>https://www.themoviedb.org/movie/1400940</link>
+      <guid>https://www.themoviedb.org/movie/1400940</guid>
+      <description>L'ascension fulgurante de Matt Hagen, de gamin des rues de Gotham à star hollywoodienne, est brutalement interrompue lorsqu'un baron du crime le laisse atrocement défiguré. Abandonné de tous et n'ayan</description>
+      <enclosure url="https://image.tmdb.org/t/p/w500/5RzUMLAYw2xHsd98UKcMC9s0ZQ.jpg" type="image/jpeg" length="0"/>
+      <media:thumbnail url="https://image.tmdb.org/t/p/w500/5RzUMLAYw2xHsd98UKcMC9s0ZQ.jpg"/>
+      <media:content url="https://image.tmdb.org/t/p/w500/5RzUMLAYw2xHsd98UKcMC9s0ZQ.jpg" medium="image"/>
+    </item>
+    <item>
       <title>Wild Horse Nine</title>
       <link>https://www.themoviedb.org/movie/891621</link>
       <guid>https://www.themoviedb.org/movie/891621</guid>
@@ -121,15 +130,6 @@
       <enclosure url="https://image.tmdb.org/t/p/w500/hnBtud9vLr9arsUW8nxrzIz2uA4.jpg" type="image/jpeg" length="0"/>
       <media:thumbnail url="https://image.tmdb.org/t/p/w500/hnBtud9vLr9arsUW8nxrzIz2uA4.jpg"/>
       <media:content url="https://image.tmdb.org/t/p/w500/hnBtud9vLr9arsUW8nxrzIz2uA4.jpg" medium="image"/>
-    </item>
-    <item>
-      <title>ஜெயிலர் 2</title>
-      <link>https://www.themoviedb.org/movie/1234139</link>
-      <guid>https://www.themoviedb.org/movie/1234139</guid>
-      <description></description>
-      <enclosure url="https://image.tmdb.org/t/p/w500/upwdEyhhYZ7pT2hD535fr2MGfpx.jpg" type="image/jpeg" length="0"/>
-      <media:thumbnail url="https://image.tmdb.org/t/p/w500/upwdEyhhYZ7pT2hD535fr2MGfpx.jpg"/>
-      <media:content url="https://image.tmdb.org/t/p/w500/upwdEyhhYZ7pT2hD535fr2MGfpx.jpg" medium="image"/>
     </item>
     <item>
       <title>O.M: Operation Mole</title>
