@@ -4,7 +4,7 @@
     <title>Au cinéma en ce moment</title>
     <link>https://www.themoviedb.org/movie/now-playing</link>
     <description>Films à l'affiche en France</description>
-    <lastBuildDate>Thu, 26 Nov 2026 14:43:02 -0000</lastBuildDate>
+    <lastBuildDate>Fri, 27 Nov 2026 14:42:30 -0000</lastBuildDate>
     <item>
       <title>Hunger Games : Lever de soleil sur la moisson</title>
       <link>https://www.themoviedb.org/movie/1300968</link>
@@ -24,15 +24,6 @@
       <media:content url="https://image.tmdb.org/t/p/w500/tGdFDoA9qyt0t6Qr9MFnOl8Z2Jz.jpg" medium="image"/>
     </item>
     <item>
-      <title>Ramayana : L'avènement d'une légende</title>
-      <link>https://www.themoviedb.org/movie/656908</link>
-      <guid>https://www.themoviedb.org/movie/656908</guid>
-      <description>Une épopée ancienne suit un jeune prince et une jeune princesse dont le mariage et l'exil qui a suivi marquent le début d'un voyage légendaire. Leur histoire d'amour, de devoir et de destin ouvre la v</description>
-      <enclosure url="https://image.tmdb.org/t/p/w500/sCqbbDIfLfO52FWjmuVOVZKkVyV.jpg" type="image/jpeg" length="0"/>
-      <media:thumbnail url="https://image.tmdb.org/t/p/w500/sCqbbDIfLfO52FWjmuVOVZKkVyV.jpg"/>
-      <media:content url="https://image.tmdb.org/t/p/w500/sCqbbDIfLfO52FWjmuVOVZKkVyV.jpg" medium="image"/>
-    </item>
-    <item>
       <title>You Can See Everything</title>
       <link>https://www.themoviedb.org/movie/1765072</link>
       <guid>https://www.themoviedb.org/movie/1765072</guid>
@@ -42,6 +33,15 @@
       <media:content url="https://image.tmdb.org/t/p/w500/hzRa2W9PIZkAwuijlsSMbte0bfq.jpg" medium="image"/>
     </item>
     <item>
+      <title>Ramayana : L'avènement d'une légende</title>
+      <link>https://www.themoviedb.org/movie/656908</link>
+      <guid>https://www.themoviedb.org/movie/656908</guid>
+      <description>Une épopée ancienne suit un jeune prince et une jeune princesse dont le mariage et l'exil qui a suivi marquent le début d'un voyage légendaire. Leur histoire d'amour, de devoir et de destin ouvre la v</description>
+      <enclosure url="https://image.tmdb.org/t/p/w500/sCqbbDIfLfO52FWjmuVOVZKkVyV.jpg" type="image/jpeg" length="0"/>
+      <media:thumbnail url="https://image.tmdb.org/t/p/w500/sCqbbDIfLfO52FWjmuVOVZKkVyV.jpg"/>
+      <media:content url="https://image.tmdb.org/t/p/w500/sCqbbDIfLfO52FWjmuVOVZKkVyV.jpg" medium="image"/>
+    </item>
+    <item>
       <title>Godzilla Minus Zero</title>
       <link>https://www.themoviedb.org/movie/1381071</link>
       <guid>https://www.themoviedb.org/movie/1381071</guid>
@@ -49,15 +49,6 @@
       <enclosure url="https://image.tmdb.org/t/p/w500/cZrs6whBv4JpPxsNJ2ZefhgUUEF.jpg" type="image/jpeg" length="0"/>
       <media:thumbnail url="https://image.tmdb.org/t/p/w500/cZrs6whBv4JpPxsNJ2ZefhgUUEF.jpg"/>
       <media:content url="https://image.tmdb.org/t/p/w500/cZrs6whBv4JpPxsNJ2ZefhgUUEF.jpg" medium="image"/>
-    </item>
-    <item>
-      <title>Scrooge</title>
-      <link>https://www.themoviedb.org/movie/1567605</link>
-      <guid>https://www.themoviedb.org/movie/1567605</guid>
-      <description>Ebenezer Scrooge est un vieil homme avare, pingre et solitaire. Bien évidemment, il déteste et méprise Noël et tout ce qui engendre le bonheur. C'est alors qu'il reçoit la visite du fantôme d'un ancie</description>
-      <enclosure url="https://image.tmdb.org/t/p/w500/9RCnWkVOevfAVuSkYkQOg1k8QvO.jpg" type="image/jpeg" length="0"/>
-      <media:thumbnail url="https://image.tmdb.org/t/p/w500/9RCnWkVOevfAVuSkYkQOg1k8QvO.jpg"/>
-      <media:content url="https://image.tmdb.org/t/p/w500/9RCnWkVOevfAVuSkYkQOg1k8QvO.jpg" medium="image"/>
     </item>
     <item>
       <title>Obsession</title>
@@ -78,6 +69,15 @@
       <media:content url="https://image.tmdb.org/t/p/w500/fjoHeK9kmoN46dUPGVpZA5rD27g.jpg" medium="image"/>
     </item>
     <item>
+      <title>Scrooge</title>
+      <link>https://www.themoviedb.org/movie/1567605</link>
+      <guid>https://www.themoviedb.org/movie/1567605</guid>
+      <description>Ebenezer Scrooge est un vieil homme avare, pingre et solitaire. Bien évidemment, il déteste et méprise Noël et tout ce qui engendre le bonheur. C'est alors qu'il reçoit la visite du fantôme d'un ancie</description>
+      <enclosure url="https://image.tmdb.org/t/p/w500/9RCnWkVOevfAVuSkYkQOg1k8QvO.jpg" type="image/jpeg" length="0"/>
+      <media:thumbnail url="https://image.tmdb.org/t/p/w500/9RCnWkVOevfAVuSkYkQOg1k8QvO.jpg"/>
+      <media:content url="https://image.tmdb.org/t/p/w500/9RCnWkVOevfAVuSkYkQOg1k8QvO.jpg" medium="image"/>
+    </item>
+    <item>
       <title>Billie, à la croisée des mondes</title>
       <link>https://www.themoviedb.org/movie/1538497</link>
       <guid>https://www.themoviedb.org/movie/1538497</guid>
@@ -87,15 +87,6 @@
       <media:content url="https://image.tmdb.org/t/p/w500/oifSgkd0jb7ycHUld3IKRVCvmyZ.jpg" medium="image"/>
     </item>
     <item>
-      <title>L'île des souvenirs</title>
-      <link>https://www.themoviedb.org/movie/1465063</link>
-      <guid>https://www.themoviedb.org/movie/1465063</guid>
-      <description>Pendant qu'elles passent une dernière soirée ensemble avant de s'engager sur des voies différentes, Jo et Raissa, amies depuis toujours, trouvent un portail mystérieux qui les transporte sur Nakali, u</description>
-      <enclosure url="https://image.tmdb.org/t/p/w500/txvVTbY1cAsBe5tPX9c5m5SM3ml.jpg" type="image/jpeg" length="0"/>
-      <media:thumbnail url="https://image.tmdb.org/t/p/w500/txvVTbY1cAsBe5tPX9c5m5SM3ml.jpg"/>
-      <media:content url="https://image.tmdb.org/t/p/w500/txvVTbY1cAsBe5tPX9c5m5SM3ml.jpg" medium="image"/>
-    </item>
-    <item>
       <title>Mon beau-père, ma belle-fille et moi</title>
       <link>https://www.themoviedb.org/movie/1400336</link>
       <guid>https://www.themoviedb.org/movie/1400336</guid>
@@ -103,6 +94,15 @@
       <enclosure url="https://image.tmdb.org/t/p/w500/tAJeM7WTjgkvGeCH8zjIA7kFlHW.jpg" type="image/jpeg" length="0"/>
       <media:thumbnail url="https://image.tmdb.org/t/p/w500/tAJeM7WTjgkvGeCH8zjIA7kFlHW.jpg"/>
       <media:content url="https://image.tmdb.org/t/p/w500/tAJeM7WTjgkvGeCH8zjIA7kFlHW.jpg" medium="image"/>
+    </item>
+    <item>
+      <title>L'île des souvenirs</title>
+      <link>https://www.themoviedb.org/movie/1465063</link>
+      <guid>https://www.themoviedb.org/movie/1465063</guid>
+      <description>Pendant qu'elles passent une dernière soirée ensemble avant de s'engager sur des voies différentes, Jo et Raissa, amies depuis toujours, trouvent un portail mystérieux qui les transporte sur Nakali, u</description>
+      <enclosure url="https://image.tmdb.org/t/p/w500/txvVTbY1cAsBe5tPX9c5m5SM3ml.jpg" type="image/jpeg" length="0"/>
+      <media:thumbnail url="https://image.tmdb.org/t/p/w500/txvVTbY1cAsBe5tPX9c5m5SM3ml.jpg"/>
+      <media:content url="https://image.tmdb.org/t/p/w500/txvVTbY1cAsBe5tPX9c5m5SM3ml.jpg" medium="image"/>
     </item>
     <item>
       <title>Clayface</title>
