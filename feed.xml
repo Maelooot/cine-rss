@@ -4,7 +4,7 @@
     <title>Au cinéma en ce moment</title>
     <link>https://www.themoviedb.org/movie/now-playing</link>
     <description>Films à l'affiche en France</description>
-    <lastBuildDate>Fri, 27 Nov 2026 14:42:30 -0000</lastBuildDate>
+    <lastBuildDate>Sat, 28 Nov 2026 13:53:33 -0000</lastBuildDate>
     <item>
       <title>Hunger Games : Lever de soleil sur la moisson</title>
       <link>https://www.themoviedb.org/movie/1300968</link>
@@ -33,6 +33,15 @@
       <media:content url="https://image.tmdb.org/t/p/w500/hzRa2W9PIZkAwuijlsSMbte0bfq.jpg" medium="image"/>
     </item>
     <item>
+      <title>Ghost Soldier</title>
+      <link>https://www.themoviedb.org/movie/1562642</link>
+      <guid>https://www.themoviedb.org/movie/1562642</guid>
+      <description>Fitzgerald, un homme solitaire au passé mystérieux qui mène une vie tranquille dans sa ville natale. Lorsqu'une puissante multinationale étrangère tente de s'emparer des terres de sa communauté pour t</description>
+      <enclosure url="https://image.tmdb.org/t/p/w500/cKN3Dhlp6GY2VppTUJ5mUX6vSsS.jpg" type="image/jpeg" length="0"/>
+      <media:thumbnail url="https://image.tmdb.org/t/p/w500/cKN3Dhlp6GY2VppTUJ5mUX6vSsS.jpg"/>
+      <media:content url="https://image.tmdb.org/t/p/w500/cKN3Dhlp6GY2VppTUJ5mUX6vSsS.jpg" medium="image"/>
+    </item>
+    <item>
       <title>Ramayana : L'avènement d'une légende</title>
       <link>https://www.themoviedb.org/movie/656908</link>
       <guid>https://www.themoviedb.org/movie/656908</guid>
@@ -40,24 +49,6 @@
       <enclosure url="https://image.tmdb.org/t/p/w500/sCqbbDIfLfO52FWjmuVOVZKkVyV.jpg" type="image/jpeg" length="0"/>
       <media:thumbnail url="https://image.tmdb.org/t/p/w500/sCqbbDIfLfO52FWjmuVOVZKkVyV.jpg"/>
       <media:content url="https://image.tmdb.org/t/p/w500/sCqbbDIfLfO52FWjmuVOVZKkVyV.jpg" medium="image"/>
-    </item>
-    <item>
-      <title>Godzilla Minus Zero</title>
-      <link>https://www.themoviedb.org/movie/1381071</link>
-      <guid>https://www.themoviedb.org/movie/1381071</guid>
-      <description>Japon après la Seconde Guerre mondiale, Shikishima Koichi, un ancien pilote kamikaze survit à une rencontre avec Godzilla et souffre de symptômes de stress post-traumatique. Lorsque la créature réappa</description>
-      <enclosure url="https://image.tmdb.org/t/p/w500/cZrs6whBv4JpPxsNJ2ZefhgUUEF.jpg" type="image/jpeg" length="0"/>
-      <media:thumbnail url="https://image.tmdb.org/t/p/w500/cZrs6whBv4JpPxsNJ2ZefhgUUEF.jpg"/>
-      <media:content url="https://image.tmdb.org/t/p/w500/cZrs6whBv4JpPxsNJ2ZefhgUUEF.jpg" medium="image"/>
-    </item>
-    <item>
-      <title>Obsession</title>
-      <link>https://www.themoviedb.org/movie/1339713</link>
-      <guid>https://www.themoviedb.org/movie/1339713</guid>
-      <description>Et si vous pouviez réaliser votre rêve le plus fou ? Un jeune introverti met la main sur un objet magique capable d’exaucer n’importe quel souhait. Son crush de toujours tombe alors raide dingue de lu</description>
-      <enclosure url="https://image.tmdb.org/t/p/w500/mDCR1frpUvGfIKksuM440VLb7X9.jpg" type="image/jpeg" length="0"/>
-      <media:thumbnail url="https://image.tmdb.org/t/p/w500/mDCR1frpUvGfIKksuM440VLb7X9.jpg"/>
-      <media:content url="https://image.tmdb.org/t/p/w500/mDCR1frpUvGfIKksuM440VLb7X9.jpg" medium="image"/>
     </item>
     <item>
       <title>Wicker</title>
@@ -69,6 +60,33 @@
       <media:content url="https://image.tmdb.org/t/p/w500/fjoHeK9kmoN46dUPGVpZA5rD27g.jpg" medium="image"/>
     </item>
     <item>
+      <title>Billie, à la croisée des mondes</title>
+      <link>https://www.themoviedb.org/movie/1538497</link>
+      <guid>https://www.themoviedb.org/movie/1538497</guid>
+      <description>Une adolescente maladroite et sa mère supra-organisée découvrent que ce qui la rend unique pourrait bien provenir de pouvoirs magiques capables non seulement de chambouler leur vie mais aussi le monde</description>
+      <enclosure url="https://image.tmdb.org/t/p/w500/r2JzhxYaRlPgIndM6wGLJJftTmG.jpg" type="image/jpeg" length="0"/>
+      <media:thumbnail url="https://image.tmdb.org/t/p/w500/r2JzhxYaRlPgIndM6wGLJJftTmG.jpg"/>
+      <media:content url="https://image.tmdb.org/t/p/w500/r2JzhxYaRlPgIndM6wGLJJftTmG.jpg" medium="image"/>
+    </item>
+    <item>
+      <title>Obsession</title>
+      <link>https://www.themoviedb.org/movie/1339713</link>
+      <guid>https://www.themoviedb.org/movie/1339713</guid>
+      <description>Et si vous pouviez réaliser votre rêve le plus fou ? Un jeune introverti met la main sur un objet magique capable d’exaucer n’importe quel souhait. Son crush de toujours tombe alors raide dingue de lu</description>
+      <enclosure url="https://image.tmdb.org/t/p/w500/mDCR1frpUvGfIKksuM440VLb7X9.jpg" type="image/jpeg" length="0"/>
+      <media:thumbnail url="https://image.tmdb.org/t/p/w500/mDCR1frpUvGfIKksuM440VLb7X9.jpg"/>
+      <media:content url="https://image.tmdb.org/t/p/w500/mDCR1frpUvGfIKksuM440VLb7X9.jpg" medium="image"/>
+    </item>
+    <item>
+      <title>Godzilla Minus Zero</title>
+      <link>https://www.themoviedb.org/movie/1381071</link>
+      <guid>https://www.themoviedb.org/movie/1381071</guid>
+      <description>Japon après la Seconde Guerre mondiale, Shikishima Koichi, un ancien pilote kamikaze survit à une rencontre avec Godzilla et souffre de symptômes de stress post-traumatique. Lorsque la créature réappa</description>
+      <enclosure url="https://image.tmdb.org/t/p/w500/cZrs6whBv4JpPxsNJ2ZefhgUUEF.jpg" type="image/jpeg" length="0"/>
+      <media:thumbnail url="https://image.tmdb.org/t/p/w500/cZrs6whBv4JpPxsNJ2ZefhgUUEF.jpg"/>
+      <media:content url="https://image.tmdb.org/t/p/w500/cZrs6whBv4JpPxsNJ2ZefhgUUEF.jpg" medium="image"/>
+    </item>
+    <item>
       <title>Scrooge</title>
       <link>https://www.themoviedb.org/movie/1567605</link>
       <guid>https://www.themoviedb.org/movie/1567605</guid>
@@ -76,15 +94,6 @@
       <enclosure url="https://image.tmdb.org/t/p/w500/9RCnWkVOevfAVuSkYkQOg1k8QvO.jpg" type="image/jpeg" length="0"/>
       <media:thumbnail url="https://image.tmdb.org/t/p/w500/9RCnWkVOevfAVuSkYkQOg1k8QvO.jpg"/>
       <media:content url="https://image.tmdb.org/t/p/w500/9RCnWkVOevfAVuSkYkQOg1k8QvO.jpg" medium="image"/>
-    </item>
-    <item>
-      <title>Billie, à la croisée des mondes</title>
-      <link>https://www.themoviedb.org/movie/1538497</link>
-      <guid>https://www.themoviedb.org/movie/1538497</guid>
-      <description>Une adolescente maladroite et sa mère supra-organisée découvrent que ce qui la rend unique pourrait bien provenir de pouvoirs magiques capables non seulement de chambouler leur vie mais aussi le monde</description>
-      <enclosure url="https://image.tmdb.org/t/p/w500/oifSgkd0jb7ycHUld3IKRVCvmyZ.jpg" type="image/jpeg" length="0"/>
-      <media:thumbnail url="https://image.tmdb.org/t/p/w500/oifSgkd0jb7ycHUld3IKRVCvmyZ.jpg"/>
-      <media:content url="https://image.tmdb.org/t/p/w500/oifSgkd0jb7ycHUld3IKRVCvmyZ.jpg" medium="image"/>
     </item>
     <item>
       <title>Mon beau-père, ma belle-fille et moi</title>
@@ -130,15 +139,6 @@
       <enclosure url="https://image.tmdb.org/t/p/w500/gWWedXJXLrEaKCTrC4nMPPumDSb.jpg" type="image/jpeg" length="0"/>
       <media:thumbnail url="https://image.tmdb.org/t/p/w500/gWWedXJXLrEaKCTrC4nMPPumDSb.jpg"/>
       <media:content url="https://image.tmdb.org/t/p/w500/gWWedXJXLrEaKCTrC4nMPPumDSb.jpg" medium="image"/>
-    </item>
-    <item>
-      <title>Wild Horse Nine</title>
-      <link>https://www.themoviedb.org/movie/891621</link>
-      <guid>https://www.themoviedb.org/movie/891621</guid>
-      <description>Peu avant le coup d'État chilien de 1973, deux agents de la CIA, Chris et Lee, sont envoyés de Santiago vers l'île de Pâques par leur supérieur, MJ. Au milieu des statues emblématiques de l'île, tandi</description>
-      <enclosure url="https://image.tmdb.org/t/p/w500/hnBtud9vLr9arsUW8nxrzIz2uA4.jpg" type="image/jpeg" length="0"/>
-      <media:thumbnail url="https://image.tmdb.org/t/p/w500/hnBtud9vLr9arsUW8nxrzIz2uA4.jpg"/>
-      <media:content url="https://image.tmdb.org/t/p/w500/hnBtud9vLr9arsUW8nxrzIz2uA4.jpg" medium="image"/>
     </item>
   </channel>
 </rss>
